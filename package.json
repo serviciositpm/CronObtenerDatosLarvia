@@ -1,0 +1,29 @@
+{
+  "name": "cronobtenerdatoslarvia",
+  "version": "1.0.0",
+  "description": "Programa que descargara los datos de analisis realizados en la plataforma de larvia mediante un api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "larvia",
+    "api"
+  ],
+  "author": "Bairon Reyes (bareca90@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.9",
+    "cron": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.12.1",
+    "mssql": "^11.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "@types/mssql": "^9.1.7"
+  }
+}
