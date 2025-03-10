@@ -1,6 +1,7 @@
 import config from "./config/dbConfig";
 import sql from "mssql";
 import connectMongoDB from "./config/dbConfigMongo";
+import { CronJob } from "./modules/cron/cronJob";
 
 const conectarSql = async () => {
   try {
@@ -23,11 +24,15 @@ const main = async () => {
     * Conexión a la base de datos SQL Server
     */
     const conectoSql = await conectarSql();
-    if(conectoMongo && conectoSql){
-        console.log("🚀🚀🚀 Conexiones exitosas 🚀🚀🚀");
-    }
-    else{
-        console.log("❌❌❌ Fallaron las conexiones ❌❌❌");
+    if (conectoMongo && conectoSql) {
+      console.log("🚀🚀🚀 Conexiones exitosas 🚀🚀🚀");
+  
+      // Iniciar el cron después de que las conexiones sean exitosas
+      const cronJob = new CronJob();
+      cronJob.start();
+      console.log("⏳ CronJob iniciado...");
+    } else {
+      console.log("❌❌❌ Fallaron las conexiones ❌❌❌");
     }
 
   

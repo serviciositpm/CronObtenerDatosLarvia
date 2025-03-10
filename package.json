@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@types/mongoose": "^5.11.96",
-    "@types/mssql": "^9.1.7"
+    "@types/mssql": "^9.1.7",
+    "@types/node-cron": "^3.0.11"
   }
 }
