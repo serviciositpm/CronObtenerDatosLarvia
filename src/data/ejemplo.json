@@ -1,0 +1,421 @@
+[
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "25D24",
+        "tankName": "PISCINA 25",
+        "analysisDate": "2025-01-08T13:05:33.781Z",
+        "averageWeight": {
+            "value": 18.54167,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.16,
+            "days": 7
+        },
+        "productionDays": 56,
+        "population": 2863468,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomass": {
+            "value": 53093.48,
+            "unit": "Kg"
+        },
+        "size": {
+            "value": 16.6,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 172498,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 8
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 2
+            }
+        ],
+        "wholeData": [
+            {
+                "range": "30/40",
+                "animals": 1,
+                "biomass": 0.69
+            },
+            {
+                "range": "40/50",
+                "animals": 36,
+                "biomass": 25
+            },
+            {
+                "range": "50/60",
+                "animals": 79,
+                "biomass": 54.86
+            },
+            {
+                "range": "60/70",
+                "animals": 27,
+                "biomass": 18.75
+            },
+            {
+                "range": "80/100",
+                "animals": 1,
+                "biomass": 0.69
+            }
+        ],
+        "tailData": [
+            {
+                "range": "26/30",
+                "animals": 6,
+                "biomass": 4.17
+            },
+            {
+                "range": "31/35",
+                "animals": 37,
+                "biomass": 25.69
+            },
+            {
+                "range": "36/40",
+                "animals": 59,
+                "biomass": 40.97
+            },
+            {
+                "range": "41/50",
+                "animals": 41,
+                "biomass": 28.47
+            },
+            {
+                "range": "51/60",
+                "animals": 1,
+                "biomass": 0.69
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "20D24",
+        "tankName": "PISCINA 20",
+        "analysisDate": "2025-01-29T16:20:44.766Z",
+        "averageWeight": {
+            "value": 50.888889999999996,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "mg",
+            "value": -91917.63,
+            "days": 1
+        },
+        "productionDays": 114,
+        "population": 2196255,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomass": {
+            "value": 111764.98,
+            "unit": "Kg"
+        },
+        "size": {
+            "value": 8.8,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 249574,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 5
+            }
+        ],
+        "wholeData": [
+            {
+                "range": "< 20",
+                "animals": 61,
+                "biomass": 52.14
+            },
+            {
+                "range": "20/30",
+                "animals": 56,
+                "biomass": 47.86
+            }
+        ],
+        "tailData": [
+            {
+                "range": "U15",
+                "animals": 94,
+                "biomass": 80.34
+            },
+            {
+                "range": "16/20",
+                "animals": 23,
+                "biomass": 19.66
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "45D24",
+        "tankName": "PISCINA 45",
+        "analysisDate": "2025-01-08T14:30:02.585Z",
+        "averageWeight": {
+            "value": 19.15328,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.86,
+            "days": 7
+        },
+        "productionDays": 41,
+        "population": 3923510,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomass": {
+            "value": 75148.09,
+            "unit": "Kg"
+        },
+        "size": {
+            "value": 26.14,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 150096,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 2
+            }
+        ],
+        "wholeData": [
+            {
+                "range": "30/40",
+                "animals": 2,
+                "biomass": 1.46
+            },
+            {
+                "range": "40/50",
+                "animals": 48,
+                "biomass": 35.04
+            },
+            {
+                "range": "50/60",
+                "animals": 63,
+                "biomass": 45.99
+            },
+            {
+                "range": "60/70",
+                "animals": 21,
+                "biomass": 15.33
+            },
+            {
+                "range": "70/80",
+                "animals": 3,
+                "biomass": 2.19
+            }
+        ],
+        "tailData": [
+            {
+                "range": "26/30",
+                "animals": 8,
+                "biomass": 5.84
+            },
+            {
+                "range": "31/35",
+                "animals": 54,
+                "biomass": 39.42
+            },
+            {
+                "range": "36/40",
+                "animals": 46,
+                "biomass": 33.58
+            },
+            {
+                "range": "41/50",
+                "animals": 28,
+                "biomass": 20.44
+            },
+            {
+                "range": "51/60",
+                "animals": 1,
+                "biomass": 0.73
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "29D24",
+        "tankName": "PISCINA 29",
+        "analysisDate": "2025-01-08T13:40:46.991Z",
+        "averageWeight": {
+            "value": 22.3629,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.38,
+            "days": 7
+        },
+        "productionDays": 50,
+        "population": 1779832,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomass": {
+            "value": 39802.21,
+            "unit": "Kg"
+        },
+        "size": {
+            "value": 11.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 158913,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 3
+            }
+        ],
+        "wholeData": [
+            {
+                "range": "30/40",
+                "animals": 16,
+                "biomass": 12.9
+            },
+            {
+                "range": "40/50",
+                "animals": 89,
+                "biomass": 71.77
+            },
+            {
+                "range": "50/60",
+                "animals": 19,
+                "biomass": 15.32
+            },
+            {
+                "range": "-",
+                "animals": "-",
+                "biomass": 0
+            },
+            {
+                "range": "-",
+                "animals": "-",
+                "biomass": 0
+            }
+        ],
+        "tailData": [
+            {
+                "range": "21/25",
+                "animals": 4,
+                "biomass": 3.23
+            },
+            {
+                "range": "26/30",
+                "animals": 48,
+                "biomass": 38.71
+            },
+            {
+                "range": "31/35",
+                "animals": 59,
+                "biomass": 47.58
+            },
+            {
+                "range": "36/40",
+                "animals": 12,
+                "biomass": 9.68
+            },
+            {
+                "range": "41/50",
+                "animals": 1,
+                "biomass": 0.81
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "16D24",
+        "tankName": "PISCINA 16",
+        "analysisDate": "2025-01-08T16:46:17.457Z",
+        "averageWeight": {
+            "value": 37.27907,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 1.45,
+            "days": 1
+        },
+        "productionDays": 66,
+        "population": 1107793,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomass": {
+            "value": 41297.49,
+            "unit": "Kg"
+        },
+        "size": {
+            "value": 6.94,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 159624,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 3
+            }
+        ],
+        "wholeData": [
+            {
+                "range": "< 20",
+                "animals": 2,
+                "biomass": 1.55
+            },
+            {
+                "range": "20/30",
+                "animals": 101,
+                "biomass": 78.29
+            },
+            {
+                "range": "30/40",
+                "animals": 26,
+                "biomass": 20.16
+            },
+            {
+                "range": "-",
+                "animals": "-",
+                "biomass": 0
+            }
+        ],
+        "tailData": [
+            {
+                "range": "U15",
+                "animals": 6,
+                "biomass": 4.65
+            },
+            {
+                "range": "16/20",
+                "animals": 84,
+                "biomass": 65.12
+            },
+            {
+                "range": "21/25",
+                "animals": 38,
+                "biomass": 29.46
+            },
+            {
+                "range": "26/30",
+                "animals": 1,
+                "biomass": 0.78
+            }
+        ]
+    }
+]
