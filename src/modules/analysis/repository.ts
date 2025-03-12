@@ -3,73 +3,63 @@ import { AnalysisData } from "../../interfaces/Analisys.Interface";
 import dbConfig from "../../config/dbConfig";
 
 export class AnalysisRepository {
-  async insertHeader(data: AnalysisData): Promise<number> {
+  async insertHeader(data: AnalysisData, spname: string): Promise<number> {
     try {
       const pool = await sql.connect(dbConfig);
       const result = await pool
         .request()
-        .input("campusName", data.campusName)
-        .input("stockingName", data.stockingName)
-        .input("tankName", data.tankName)
-        .input("analysisDate", data.analysisDate)
-        .input("avgWeight", data.averageWeight.value)
-        .input("avgWeightUnit", data.averageWeight.unit)
-        .input("weightIncrease", data.weightIncrease.value)
-        .input("weightIncreaseUnit", data.weightIncrease.unit)
-        .input("weightIncreaseDays", data.weightIncrease.days)
-        .input("productionDays", data.productionDays)
-        .input("population", data.population)
-        .input("survivalRate", data.survivalRate)
-        .input("uniformityWeight", data.uniformityWeight)
-        .input("biomass", data.biomass.value)
-        .input("biomassUnit", data.biomass.unit)
-        .input("size", data.size.value)
-        .input("sizeUnit", data.size.unit)
-        .input("density", data.density.value)
-        .input("densityUnit", data.density.unit).query(`
-                INSERT INTO AnalysisHeader (
-                    campusName, stockingName, tankName, analysisDate, avgWeight, avgWeightUnit,
-                    weightIncrease, weightIncreaseUnit, weightIncreaseDays, productionDays,
-                    population, survivalRate, uniformityWeight, biomass, biomassUnit,
-                    size, sizeUnit, density, densityUnit
-                ) 
-                OUTPUT INSERTED.id
-                VALUES (
-                    @campusName, @stockingName, @tankName, @analysisDate, @avgWeight, @avgWeightUnit,
-                    @weightIncrease, @weightIncreaseUnit, @weightIncreaseDays, @productionDays,
-                    @population, @survivalRate, @uniformityWeight, @biomass, @biomassUnit,
-                    @size, @sizeUnit, @density, @densityUnit
-                )
-            `);
-      return result.recordset[0].id;
+        .input("campusName", sql.VarChar(100), data.campusName)
+        .input("stockingName", sql.VarChar(50), data.stockingName)
+        .input("tankName", sql.VarChar(50), data.tankName)
+        .input("analysisDate", sql.DateTime, data.analysisDate)
+        .input("productionDays", sql.Int, data.productionDays)
+        .input("population", sql.Int, data.population)
+        .input("survivalRate", sql.Float, data.survivalRate)
+        .input("uniformityWeight", sql.Float, data.uniformityWeight)
+        .input("avgWeight", sql.Float, data.averageWeight.value)
+        .input("avgWeightUnit", sql.VarChar(20), data.averageWeight.unit)
+        .input("weightIncrease", sql.Float, data.weightIncrease.value)
+        .input("weightIncreaseUnit", sql.VarChar(20), data.weightIncrease.unit)
+        .input("weightIncreaseValue", sql.Float, data.weightIncrease.value)
+        .input("weightIncreaseDays", sql.Int, data.weightIncrease.days)
+        .input("biomassValue", sql.Float, data.biomass.value)
+        .input("biomassUnit", sql.VarChar(20), data.biomass.unit)
+        .input("size", sql.Float, data.size.value)
+        .input("sizeUnit", sql.VarChar(20), data.size.unit)
+        .input("density", sql.Float, data.density.value)
+        .input("densityUnit", sql.VarChar(20), data.density.unit)
+        .output("idInserted", sql.Int) // Variable de salida para el ID insertado
+        .execute(spname); // Llamado al SP
+
+      return result.output.idInserted as number;
     } catch (error) {
-      console.error(
-        "Error fetching data for campusId ${campusId} and phaseType ${phaseType}:",
-        error
-      );
+      console.error("Error inserting analysis header:", error);
       throw error;
     }
   }
 
   async insertDetail(
     headerId: number,
-    category: string,
+    type: string,
     keyName: string,
-    range: string,
+    rangeValue: string,
     animals: number,
     biomass: number
-  ) {
-    const pool = await sql.connect(dbConfig);
-    const result = await pool
-      .request()
-      .input("analysisHeaderId", headerId)
-      .input("category", category)
-      .input("keyName", keyName)
-      .input("rangeValue", range)
-      .input("animals", animals)
-      .input("biomass", biomass).query(`
-                INSERT INTO AnalysisDetail (analysisHeaderId, category, keyName, rangeValue, animals, biomass)
-                VALUES (@analysisHeaderId, @category, @keyName, @rangeValue, @animals, @biomass)
-            `);
+  ): Promise<void> {
+    try {
+      const pool = await sql.connect(dbConfig);
+      await pool
+        .request()
+        .input("headerId", sql.Int, headerId)
+        .input("type", sql.VarChar(50), type)
+        .input("keyName", sql.VarChar(100), keyName)
+        .input("rangeValue", sql.VarChar(50), rangeValue)
+        .input("animals", sql.Int, animals)
+        .input("biomass", sql.Float, biomass)
+        .execute("Sp_Larvia_Inserta_Detalle_Analisis"); // Llamado al SP
+    } catch (error) {
+      console.error("Error inserting analysis detail:", error);
+      throw error;
+    }
   }
 }
