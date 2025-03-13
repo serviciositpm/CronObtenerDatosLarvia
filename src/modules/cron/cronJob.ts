@@ -16,41 +16,32 @@ export class CronJob {
 
   start() {
     cron.schedule(CRON_SCHEDULE, async () => {
-      console.log("Running cron job...");
+      const fecha_actual = new Date();
+      const datosFecha = fecha_actual.toISOString().replace('T', ' ').split('.')[0];
+      console.log('🚀🚀🚀 Ejecución Iniciada...........', datosFecha);
 
       for (const campusId of CAMPUS_IDS) {
-        for (const phaseType of PHASE_TYPES) {
-          try {
-            let biometricType: string = "WEIGHT_GROUP";
-            if (phaseType === "ADULT") {
-              biometricType = "COMMERCIAL_SIZES";
-            }
-            const date = new Date().toISOString().split("T")[0]; // Fecha del día
-            const data = await this.apiService.fetchData(
-              campusId,
-              phaseType,
-              biometricType,
-              date
-            );
+          for (const phaseType of PHASE_TYPES) {
+              try {
+                  let biometricType = phaseType === "ADULT" ? "COMMERCIAL_SIZES" : "WEIGHT_GROUP";
+                  const date = new Date().toISOString().split("T")[0];
+                  
+                  const data = await this.apiService.fetchData(campusId, phaseType, biometricType, date);
 
-            if (data && data.length > 0) {
-              console.log(
-                `Data fetched for campusId ${campusId} and phaseType ${phaseType}:`,
-                data
-              );
-              await this.analysisService.saveAnalysis(data); // Guardar datos en la BD
-              console.log("Data successfully saved.");
-            } else {
-              console.log("No data to save.");
-            }
-          } catch (error) {
-            console.error(
-              `Error processing campusId ${campusId} and phaseType ${phaseType}:`,
-              error
-            );
+                  if (!data || data.length === 0) {
+                      console.warn(`⚠️ No data found for campusId ${campusId} and phaseType ${phaseType}`);
+                      continue; // Evitar procesar datos vacíos
+                  }
+
+                  console.log(`🫣⌛⌛ Procesando datos para campusId ${campusId} y phaseType ${phaseType}:`, data);
+                  
+                  await this.analysisService.saveAnalysis(data);
+                  console.log("✅ Datos Guardados Satisfactoriamente.");
+              } catch (error) {
+                  console.error(`❌ Error al procesar  campusId ${campusId} and phaseType ${phaseType}:`, error);
+              }
           }
-        }
       }
-    });
+  });
   }
 }
