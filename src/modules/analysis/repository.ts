@@ -62,4 +62,33 @@ export class AnalysisRepository {
       throw error;
     }
   }
+  async insertDetailWeightGroup(
+    headerId: number,
+    rangeValue: string ,
+    animalsCount:number 		,
+    animalsPercent:number 			,
+    biomassKgWeight:number			,
+    biomassKgPercent:number 			,
+    biomassLbWeight:number 			,
+    biomassLbPercent:number 			,
+    averageWeight:number 		  ): Promise<void> {
+    try {
+      const pool = await sql.connect(dbConfig);
+      await pool
+        .request()
+        .input("headerId", sql.Int, headerId)
+        .input("rangeValue", sql.VarChar(50), rangeValue)
+        .input("animalsCount", sql.Int, animalsCount)
+        .input("animalsPercent", sql.Float, animalsPercent)
+        .input("biomassKgWeight", sql.Float, biomassKgWeight)
+        .input("biomassKgPercent", sql.Float, biomassKgPercent)
+        .input("biomassLbWeight", sql.Float, biomassLbWeight)
+        .input("biomassLbPercent", sql.Float, biomassLbPercent)
+        .input("averageWeight", sql.Float, averageWeight)
+        .execute("Sp_Larvia_Inserta_Detalle_Analisis_WeightGroup"); // Llamado al SP
+    } catch (error) {
+      console.error("Error inserting analysis detail WeightGroup:", error);
+      throw error;
+    }
+  }
 }

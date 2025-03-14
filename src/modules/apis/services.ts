@@ -13,19 +13,19 @@ export class ApiService {
 
             // Validación de la respuesta
             if (!response || !response.data) {
-                console.warn(`⚠️  Advertencia: La API no devolvió datos para campusId ${campusId} y phaseType ${phaseType}`);
+                console.log(`⚠️  Advertencia: La API no devolvió datos para campusId ${campusId} y phaseType ${phaseType}`);
                 return [];
             }
 
             // Si `response.data` es un array, verificamos que tenga elementos
             if (Array.isArray(response.data) && response.data.length === 0) {
-                console.warn(`⚠️ Advertencia: La API devolvió un array vacío para campusId ${campusId} y phaseType ${phaseType}`);
+                console.log(`⚠️ Advertencia: La API devolvió un array vacío para campusId ${campusId} y phaseType ${phaseType}`);
                 return [];
             }
 
             return response.data;
         } catch (error) {
-            console.error(`❌ Error al obtener datos para campusId ${campusId} y phaseType ${phaseType}:`, error);
+            console.log(`❌ Error al obtener datos para campusId ${campusId} y phaseType ${phaseType}:`, error);
             return [];
         }
     }

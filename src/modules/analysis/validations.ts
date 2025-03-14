@@ -12,40 +12,48 @@ export function validateAndNormalizeAnalysisData(data: AnalysisData[]): Analysis
         analysis.survivalRate = analysis.survivalRate ?? 0;
         analysis.uniformityWeight = analysis.uniformityWeight ?? 0;
 
-        // Validación y normalización de objetos dentro de la propiedad
-        analysis.averageWeight.value = analysis.averageWeight.value ?? 0;
-        analysis.averageWeight.unit = analysis.averageWeight.unit ?? '';
-
-        analysis.weightIncrease.value = analysis.weightIncrease.value ?? 0;
-        analysis.weightIncrease.unit = analysis.weightIncrease.unit ?? '';
-        analysis.weightIncrease.days = analysis.weightIncrease.days ?? 0;
-
-        analysis.biomass.value = analysis.biomass.value ?? 0;
-        analysis.biomass.unit = analysis.biomass.unit ?? '';
-
-        analysis.size.value = analysis.size.value ?? 0;
-        analysis.size.unit = analysis.size.unit ?? '';
-
-        analysis.density.value = analysis.density.value ?? 0;
-        analysis.density.unit = analysis.density.unit ?? '';
+        // Asegurar que las propiedades anidadas existen antes de acceder a sus valores
+        analysis.averageWeight = analysis.averageWeight ?? { value: 0, unit: '' };
+        analysis.weightIncrease = analysis.weightIncrease ?? { value: 0, unit: '', days: 0 };
+        analysis.biomass = analysis.biomass ?? { value: 0, unit: '' };
+        analysis.size = analysis.size ?? { value: 0, unit: '' };
+        analysis.density = analysis.density ?? { value: 0, unit: '' };
 
         // Validación y normalización de los arreglos (observations, wholeData, tailData)
-        analysis.observations = analysis.observations.map(obs => ({
+        analysis.observations = analysis.observations?.map(obs => ({
             key: obs.key ?? '',
             value: obs.value ?? 0,
-        }));
+        })) ?? [];
 
-        analysis.wholeData = analysis.wholeData.map(whole => ({
+        analysis.wholeData = analysis.wholeData?.map(whole => ({
             range: whole.range ?? '',
             animals: whole.animals ?? 0,
             biomass: whole.biomass ?? 0,
-        }));
+        })) ?? [];
 
-        analysis.tailData = analysis.tailData.map(tail => ({
+        analysis.tailData = analysis.tailData?.map(tail => ({
             range: tail.range ?? '',
             animals: tail.animals ?? 0,
             biomass: tail.biomass ?? 0,
-        }));
+        })) ?? [];
+
+        // Validación y normalización de weightGroupData
+        analysis.weightGroupData = analysis.weightGroupData?.map(group => ({
+            range: group.range ?? '',
+            animals: {
+                count: group.animals?.count ?? 0,
+                percent: group.animals?.percent ?? 0,
+            },
+            biomassKg: {
+                weight: group.biomassKg?.weight ?? 0,
+                percent: group.biomassKg?.percent ?? 0,
+            },
+            biomassLb: {
+                weight: group.biomassLb?.weight ?? 0,
+                percent: group.biomassLb?.percent ?? 0,
+            },
+            averageWeight: group.averageWeight ?? 0,
+        })) ?? [];
 
         return analysis;
     });
