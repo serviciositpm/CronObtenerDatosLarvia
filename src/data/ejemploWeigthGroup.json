@@ -1,0 +1,3779 @@
+[
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "22A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 22",
+        "analysisDate": "2025-03-19T13:37:31.126Z",
+        "averageWeight": {
+            "value": 23.73737,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.18,
+            "days": 7
+        },
+        "productionDays": 50,
+        "population": 2735312,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 64929.11,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 143144.18472250755,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 18.1,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 151122,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 3
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 1
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 16.62",
+                "animals": {
+                    "count": 3,
+                    "percent": 3
+                },
+                "biomassKg": {
+                    "weight": 47.43,
+                    "percent": 2.02
+                },
+                "biomassLb": {
+                    "weight": 104.56525095428744,
+                    "percent": 2.02
+                },
+                "averageWeight": 15.81
+            },
+            {
+                "range": "16.62 - 21.36",
+                "animals": {
+                    "count": 18,
+                    "percent": 18.2
+                },
+                "biomassKg": {
+                    "weight": 358.23,
+                    "percent": 15.24
+                },
+                "biomassLb": {
+                    "weight": 789.761961824887,
+                    "percent": 15.24
+                },
+                "averageWeight": 19.9
+            },
+            {
+                "range": "21.37 - 26.11",
+                "animals": {
+                    "count": 51,
+                    "percent": 51.5
+                },
+                "biomassKg": {
+                    "weight": 1199.96,
+                    "percent": 51.06
+                },
+                "biomassLb": {
+                    "weight": 2645.458961313657,
+                    "percent": 51.06
+                },
+                "averageWeight": 23.53
+            },
+            {
+                "range": "26.12 - 30.86",
+                "animals": {
+                    "count": 26,
+                    "percent": 26.3
+                },
+                "biomassKg": {
+                    "weight": 713.05,
+                    "percent": 30.34
+                },
+                "biomassLb": {
+                    "weight": 1572.0061605092694,
+                    "percent": 30.34
+                },
+                "averageWeight": 27.42
+            },
+            {
+                "range": "> 30.86",
+                "animals": {
+                    "count": 1,
+                    "percent": 1
+                },
+                "biomassKg": {
+                    "weight": 31.33,
+                    "percent": 1.33
+                },
+                "biomassLb": {
+                    "weight": 69.07082674252214,
+                    "percent": 1.33
+                },
+                "averageWeight": 31.33
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "58A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 58",
+        "analysisDate": "2025-03-19T14:45:57.612Z",
+        "averageWeight": {
+            "value": 23.525419999999997,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 5.26,
+            "days": 7
+        },
+        "productionDays": 48,
+        "population": 1344055,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 31619.46,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 69708.97680664249,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 8.1,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 165932,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 4
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 16.47",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "16.47 - 21.17",
+                "animals": {
+                    "count": 16,
+                    "percent": 13.6
+                },
+                "biomassKg": {
+                    "weight": 313.19,
+                    "percent": 11.28
+                },
+                "biomassLb": {
+                    "weight": 690.465758936818,
+                    "percent": 11.28
+                },
+                "averageWeight": 19.57
+            },
+            {
+                "range": "21.18 - 25.88",
+                "animals": {
+                    "count": 84,
+                    "percent": 71.2
+                },
+                "biomassKg": {
+                    "weight": 1957.91,
+                    "percent": 70.53
+                },
+                "biomassLb": {
+                    "weight": 4316.452677543936,
+                    "percent": 70.53
+                },
+                "averageWeight": 23.31
+            },
+            {
+                "range": "25.89 - 30.58",
+                "animals": {
+                    "count": 17,
+                    "percent": 14.4
+                },
+                "biomassKg": {
+                    "weight": 473.82,
+                    "percent": 17.07
+                },
+                "biomassLb": {
+                    "weight": 1044.5942906843868,
+                    "percent": 17.07
+                },
+                "averageWeight": 27.87
+            },
+            {
+                "range": "> 30.58",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 31.08,
+                    "percent": 1.12
+                },
+                "biomassLb": {
+                    "weight": 68.51967108705995,
+                    "percent": 1.12
+                },
+                "averageWeight": 31.08
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "17A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 17",
+        "analysisDate": "2025-03-19T15:12:25.832Z",
+        "averageWeight": {
+            "value": 18.6,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.13,
+            "days": 7
+        },
+        "productionDays": 46,
+        "population": 2547070,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 47375.5,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 104445.09902139667,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 15.8,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 161206,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 3
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 13.02",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "13.02 - 16.74",
+                "animals": {
+                    "count": 25,
+                    "percent": 20
+                },
+                "biomassKg": {
+                    "weight": 390.71,
+                    "percent": 16.8
+                },
+                "biomassLb": {
+                    "weight": 861.3681045825351,
+                    "percent": 16.8
+                },
+                "averageWeight": 15.63
+            },
+            {
+                "range": "16.75 - 20.46",
+                "animals": {
+                    "count": 77,
+                    "percent": 61.6
+                },
+                "biomassKg": {
+                    "weight": 1431.58,
+                    "percent": 61.57
+                },
+                "biomassLb": {
+                    "weight": 3156.09365298627,
+                    "percent": 61.57
+                },
+                "averageWeight": 18.59
+            },
+            {
+                "range": "20.47 - 24.18",
+                "animals": {
+                    "count": 22,
+                    "percent": 17.6
+                },
+                "biomassKg": {
+                    "weight": 478.24,
+                    "percent": 20.57
+                },
+                "biomassLb": {
+                    "weight": 1054.3387226729585,
+                    "percent": 20.57
+                },
+                "averageWeight": 21.74
+            },
+            {
+                "range": "> 24.18",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 24.47,
+                    "percent": 1.05
+                },
+                "biomassLb": {
+                    "weight": 53.94711555663954,
+                    "percent": 1.05
+                },
+                "averageWeight": 24.47
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "34A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 34",
+        "analysisDate": "2025-03-19T15:19:18.128Z",
+        "averageWeight": {
+            "value": 23.15108,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.8,
+            "days": 7
+        },
+        "productionDays": 42,
+        "population": 5478559,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 126834.56,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 279622.34020823584,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 32.76,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 167233,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 4
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 2
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 16.21",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "16.21 - 20.84",
+                "animals": {
+                    "count": 22,
+                    "percent": 15.8
+                },
+                "biomassKg": {
+                    "weight": 430.38,
+                    "percent": 13.37
+                },
+                "biomassLb": {
+                    "weight": 948.8254839912761,
+                    "percent": 13.37
+                },
+                "averageWeight": 19.56
+            },
+            {
+                "range": "20.85 - 25.47",
+                "animals": {
+                    "count": 98,
+                    "percent": 70.5
+                },
+                "biomassKg": {
+                    "weight": 2270.66,
+                    "percent": 70.56
+                },
+                "biomassLb": {
+                    "weight": 5005.94840252714,
+                    "percent": 70.56
+                },
+                "averageWeight": 23.17
+            },
+            {
+                "range": "25.48 - 30.1",
+                "animals": {
+                    "count": 18,
+                    "percent": 12.9
+                },
+                "biomassKg": {
+                    "weight": 485.5,
+                    "percent": 15.09
+                },
+                "biomassLb": {
+                    "weight": 1070.3442829075807,
+                    "percent": 15.09
+                },
+                "averageWeight": 26.97
+            },
+            {
+                "range": "> 30.1",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 31.46,
+                    "percent": 0.98
+                },
+                "biomassLb": {
+                    "weight": 69.35742768336249,
+                    "percent": 0.98
+                },
+                "averageWeight": 31.46
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "35A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 35",
+        "analysisDate": "2025-03-19T15:22:08.126Z",
+        "averageWeight": {
+            "value": 22.13178,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 7,
+            "days": 7
+        },
+        "productionDays": 34,
+        "population": 2037,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 45.08,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 99.3843877929428,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 14.21,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 143,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 2
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 15.49",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 14.74,
+                    "percent": 0.52
+                },
+                "biomassLb": {
+                    "weight": 32.49613744605095,
+                    "percent": 0.52
+                },
+                "averageWeight": 14.74
+            },
+            {
+                "range": "15.49 - 19.92",
+                "animals": {
+                    "count": 21,
+                    "percent": 16.3
+                },
+                "biomassKg": {
+                    "weight": 386.94,
+                    "percent": 13.55
+                },
+                "biomassLb": {
+                    "weight": 853.0566772981653,
+                    "percent": 13.55
+                },
+                "averageWeight": 18.43
+            },
+            {
+                "range": "19.93 - 24.34",
+                "animals": {
+                    "count": 83,
+                    "percent": 64.3
+                },
+                "biomassKg": {
+                    "weight": 1831.58,
+                    "percent": 64.15
+                },
+                "biomassLb": {
+                    "weight": 4037.9427017257804,
+                    "percent": 64.15
+                },
+                "averageWeight": 22.07
+            },
+            {
+                "range": "24.35 - 28.77",
+                "animals": {
+                    "count": 24,
+                    "percent": 18.6
+                },
+                "biomassKg": {
+                    "weight": 621.74,
+                    "percent": 21.78
+                },
+                "biomassLb": {
+                    "weight": 1370.7020689082578,
+                    "percent": 21.78
+                },
+                "averageWeight": 25.91
+            },
+            {
+                "range": "> 28.77",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "PC40A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PRECRIA 40",
+        "analysisDate": "2025-03-19T14:53:12.309Z",
+        "averageWeight": {
+            "value": 17.341459999999998,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 5.54,
+            "days": 7
+        },
+        "productionDays": 31,
+        "population": 920345,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 15960.13,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 35186.0636456473,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 6.1,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 150876,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 4
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 1
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 12.14",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "12.14 - 15.61",
+                "animals": {
+                    "count": 26,
+                    "percent": 21.1
+                },
+                "biomassKg": {
+                    "weight": 380.38,
+                    "percent": 17.83
+                },
+                "biomassLb": {
+                    "weight": 838.5943528988372,
+                    "percent": 17.83
+                },
+                "averageWeight": 14.63
+            },
+            {
+                "range": "15.62 - 19.08",
+                "animals": {
+                    "count": 79,
+                    "percent": 64.2
+                },
+                "biomassKg": {
+                    "weight": 1381.72,
+                    "percent": 64.78
+                },
+                "biomassLb": {
+                    "weight": 3046.171169060891,
+                    "percent": 64.78
+                },
+                "averageWeight": 17.49
+            },
+            {
+                "range": "19.09 - 22.54",
+                "animals": {
+                    "count": 17,
+                    "percent": 13.8
+                },
+                "biomassKg": {
+                    "weight": 345.96,
+                    "percent": 16.22
+                },
+                "biomassLb": {
+                    "weight": 762.7112422548023,
+                    "percent": 16.22
+                },
+                "averageWeight": 20.35
+            },
+            {
+                "range": "> 22.54",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 24.93,
+                    "percent": 1.17
+                },
+                "biomassLb": {
+                    "weight": 54.961241962689975,
+                    "percent": 1.17
+                },
+                "averageWeight": 24.93
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "08A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 8",
+        "analysisDate": "2025-03-19T16:28:23.428Z",
+        "averageWeight": {
+            "value": 15.1875,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 5.16,
+            "days": 7
+        },
+        "productionDays": 30,
+        "population": 783,
+        "survivalRate": 100,
+        "uniformityWeight": 86,
+        "biomassKg": {
+            "value": 11.89,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 26.212962973781945,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 6.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 126,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 5
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 3
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 10.63",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.3
+                },
+                "biomassKg": {
+                    "weight": 18.67,
+                    "percent": 0.77
+                },
+                "biomassLb": {
+                    "weight": 41.16030434991664,
+                    "percent": 0.77
+                },
+                "averageWeight": 9.34
+            },
+            {
+                "range": "10.63 - 13.67",
+                "animals": {
+                    "count": 30,
+                    "percent": 18.8
+                },
+                "biomassKg": {
+                    "weight": 373.08,
+                    "percent": 15.35
+                },
+                "biomassLb": {
+                    "weight": 822.5006077593412,
+                    "percent": 15.35
+                },
+                "averageWeight": 12.44
+            },
+            {
+                "range": "13.68 - 16.71",
+                "animals": {
+                    "count": 96,
+                    "percent": 60
+                },
+                "biomassKg": {
+                    "weight": 1460.56,
+                    "percent": 60.11
+                },
+                "biomassLb": {
+                    "weight": 3219.983616567448,
+                    "percent": 60.11
+                },
+                "averageWeight": 15.21
+            },
+            {
+                "range": "16.72 - 19.74",
+                "animals": {
+                    "count": 30,
+                    "percent": 18.8
+                },
+                "biomassKg": {
+                    "weight": 534.42,
+                    "percent": 21.99
+                },
+                "biomassLb": {
+                    "weight": 1178.1944215684225,
+                    "percent": 21.99
+                },
+                "averageWeight": 17.81
+            },
+            {
+                "range": "> 19.74",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.3
+                },
+                "biomassKg": {
+                    "weight": 43.27,
+                    "percent": 1.78
+                },
+                "biomassLb": {
+                    "weight": 95.39402084739653,
+                    "percent": 1.78
+                },
+                "averageWeight": 21.64
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "30A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 30",
+        "analysisDate": "2025-03-19T15:17:01.229Z",
+        "averageWeight": {
+            "value": 6.240600000000001,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.94,
+            "days": 7
+        },
+        "productionDays": 8,
+        "population": 1760194,
+        "survivalRate": 100,
+        "uniformityWeight": 83,
+        "biomassKg": {
+            "value": 10984.67,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 24217.051975543593,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 12.1,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 145470,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 4.37",
+                "animals": {
+                    "count": 5,
+                    "percent": 3.8
+                },
+                "biomassKg": {
+                    "weight": 19.5,
+                    "percent": 2.35
+                },
+                "biomassLb": {
+                    "weight": 42.99014112605113,
+                    "percent": 2.35
+                },
+                "averageWeight": 3.9
+            },
+            {
+                "range": "4.37 - 5.62",
+                "animals": {
+                    "count": 30,
+                    "percent": 22.6
+                },
+                "biomassKg": {
+                    "weight": 155.13,
+                    "percent": 18.69
+                },
+                "biomassLb": {
+                    "weight": 342.0031073274006,
+                    "percent": 18.69
+                },
+                "averageWeight": 5.17
+            },
+            {
+                "range": "5.63 - 6.86",
+                "animals": {
+                    "count": 62,
+                    "percent": 46.6
+                },
+                "biomassKg": {
+                    "weight": 383.01,
+                    "percent": 46.15
+                },
+                "biomassLb": {
+                    "weight": 844.3925103942995,
+                    "percent": 46.15
+                },
+                "averageWeight": 6.18
+            },
+            {
+                "range": "6.87 - 8.11",
+                "animals": {
+                    "count": 29,
+                    "percent": 21.8
+                },
+                "biomassKg": {
+                    "weight": 213.32,
+                    "percent": 25.7
+                },
+                "biomassLb": {
+                    "weight": 470.2900976927808,
+                    "percent": 25.7
+                },
+                "averageWeight": 7.36
+            },
+            {
+                "range": "> 8.11",
+                "animals": {
+                    "count": 7,
+                    "percent": 5.3
+                },
+                "biomassKg": {
+                    "weight": 59.05,
+                    "percent": 7.11
+                },
+                "biomassLb": {
+                    "weight": 130.1829658201702,
+                    "percent": 7.11
+                },
+                "averageWeight": 8.44
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "33A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 33",
+        "analysisDate": "2025-03-05T14:23:24.177Z",
+        "averageWeight": {
+            "value": 21.55645,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 5.47,
+            "days": 7
+        },
+        "productionDays": 30,
+        "population": 3089436,
+        "survivalRate": 100,
+        "uniformityWeight": 83,
+        "biomassKg": {
+            "value": 66597.27,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 146821.84799537083,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 33.6,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 91947,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 3
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 15.09",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 11.55,
+                    "percent": 0.43
+                },
+                "biomassLb": {
+                    "weight": 25.46339128235336,
+                    "percent": 0.43
+                },
+                "averageWeight": 11.55
+            },
+            {
+                "range": "15.09 - 19.4",
+                "animals": {
+                    "count": 35,
+                    "percent": 28.2
+                },
+                "biomassKg": {
+                    "weight": 623.35,
+                    "percent": 23.32
+                },
+                "biomassLb": {
+                    "weight": 1374.2515113294344,
+                    "percent": 23.32
+                },
+                "averageWeight": 17.81
+            },
+            {
+                "range": "19.41 - 23.71",
+                "animals": {
+                    "count": 57,
+                    "percent": 46
+                },
+                "biomassKg": {
+                    "weight": 1217.31,
+                    "percent": 45.54
+                },
+                "biomassLb": {
+                    "weight": 2683.7091638027327,
+                    "percent": 45.54
+                },
+                "averageWeight": 21.36
+            },
+            {
+                "range": "23.72 - 28.02",
+                "animals": {
+                    "count": 22,
+                    "percent": 17.7
+                },
+                "biomassKg": {
+                    "weight": 555.98,
+                    "percent": 20.8
+                },
+                "biomassLb": {
+                    "weight": 1225.7260852954823,
+                    "percent": 20.8
+                },
+                "averageWeight": 25.27
+            },
+            {
+                "range": "> 28.02",
+                "animals": {
+                    "count": 9,
+                    "percent": 7.3
+                },
+                "biomassKg": {
+                    "weight": 264.81,
+                    "percent": 9.91
+                },
+                "biomassLb": {
+                    "weight": 583.8061164917743,
+                    "percent": 9.91
+                },
+                "averageWeight": 29.42
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "20A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 20",
+        "analysisDate": "2025-03-19T14:40:32.677Z",
+        "averageWeight": {
+            "value": 21.446279999999998,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.65,
+            "days": 7
+        },
+        "productionDays": 40,
+        "population": 1544386,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 33121.33,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 73020.03338371852,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 8.8,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 175498,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 15.01",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 14.4,
+                    "percent": 0.55
+                },
+                "biomassLb": {
+                    "weight": 31.74656575462237,
+                    "percent": 0.55
+                },
+                "averageWeight": 14.4
+            },
+            {
+                "range": "15.01 - 19.3",
+                "animals": {
+                    "count": 22,
+                    "percent": 18.2
+                },
+                "biomassKg": {
+                    "weight": 406.28,
+                    "percent": 15.66
+                },
+                "biomassLb": {
+                    "weight": 895.6940788047207,
+                    "percent": 15.66
+                },
+                "averageWeight": 18.47
+            },
+            {
+                "range": "19.31 - 23.59",
+                "animals": {
+                    "count": 81,
+                    "percent": 66.9
+                },
+                "biomassKg": {
+                    "weight": 1734.03,
+                    "percent": 66.82
+                },
+                "biomassLb": {
+                    "weight": 3822.881764964432,
+                    "percent": 66.82
+                },
+                "averageWeight": 21.41
+            },
+            {
+                "range": "23.60 - 27.88",
+                "animals": {
+                    "count": 15,
+                    "percent": 12.4
+                },
+                "biomassKg": {
+                    "weight": 382.03,
+                    "percent": 14.72
+                },
+                "biomassLb": {
+                    "weight": 842.2319802248877,
+                    "percent": 14.72
+                },
+                "averageWeight": 25.47
+            },
+            {
+                "range": "> 27.88",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.7
+                },
+                "biomassKg": {
+                    "weight": 58.26,
+                    "percent": 2.25
+                },
+                "biomassLb": {
+                    "weight": 128.44131394890965,
+                    "percent": 2.25
+                },
+                "averageWeight": 29.13
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "27A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 27",
+        "analysisDate": "2025-03-19T14:48:37.759Z",
+        "averageWeight": {
+            "value": 21.80159,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.45,
+            "days": 7
+        },
+        "productionDays": 37,
+        "population": 1709547,
+        "survivalRate": 100,
+        "uniformityWeight": 90,
+        "biomassKg": {
+            "value": 37270.84,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 82168.13699930621,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 16.7,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 102368,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 8
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 3
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 15.26",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "15.26 - 19.62",
+                "animals": {
+                    "count": 23,
+                    "percent": 18.3
+                },
+                "biomassKg": {
+                    "weight": 433.15,
+                    "percent": 15.77
+                },
+                "biomassLb": {
+                    "weight": 954.9322886537972,
+                    "percent": 15.77
+                },
+                "averageWeight": 18.83
+            },
+            {
+                "range": "19.63 - 23.98",
+                "animals": {
+                    "count": 81,
+                    "percent": 64.3
+                },
+                "biomassKg": {
+                    "weight": 1756.33,
+                    "percent": 63.94
+                },
+                "biomassLb": {
+                    "weight": 3872.04484943166,
+                    "percent": 63.94
+                },
+                "averageWeight": 21.68
+            },
+            {
+                "range": "23.99 - 28.34",
+                "animals": {
+                    "count": 21,
+                    "percent": 16.7
+                },
+                "biomassKg": {
+                    "weight": 527.23,
+                    "percent": 19.19
+                },
+                "biomassLb": {
+                    "weight": 1162.34318491733,
+                    "percent": 19.19
+                },
+                "averageWeight": 25.11
+            },
+            {
+                "range": "> 28.34",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 30.29,
+                    "percent": 1.1
+                },
+                "biomassLb": {
+                    "weight": 66.77801921579942,
+                    "percent": 1.1
+                },
+                "averageWeight": 30.29
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "16A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 16",
+        "analysisDate": "2025-03-19T16:44:06.014Z",
+        "averageWeight": {
+            "value": 16.801470000000002,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.99,
+            "days": 7
+        },
+        "productionDays": 32,
+        "population": 1254347,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 21074.87,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 46462.13515452211,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 6.94,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 180741,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 6
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 11.76",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "11.76 - 15.12",
+                "animals": {
+                    "count": 27,
+                    "percent": 19.9
+                },
+                "biomassKg": {
+                    "weight": 388.29,
+                    "percent": 16.99
+                },
+                "biomassLb": {
+                    "weight": 856.0329178376611,
+                    "percent": 16.99
+                },
+                "averageWeight": 14.38
+            },
+            {
+                "range": "15.13 - 18.48",
+                "animals": {
+                    "count": 83,
+                    "percent": 61
+                },
+                "biomassKg": {
+                    "weight": 1374.3,
+                    "percent": 60.14
+                },
+                "biomassLb": {
+                    "weight": 3029.812869206772,
+                    "percent": 60.14
+                },
+                "averageWeight": 16.56
+            },
+            {
+                "range": "18.49 - 21.84",
+                "animals": {
+                    "count": 22,
+                    "percent": 16.2
+                },
+                "biomassKg": {
+                    "weight": 430.51,
+                    "percent": 18.84
+                },
+                "biomassLb": {
+                    "weight": 949.1120849321164,
+                    "percent": 18.84
+                },
+                "averageWeight": 19.57
+            },
+            {
+                "range": "> 21.84",
+                "animals": {
+                    "count": 4,
+                    "percent": 2.9
+                },
+                "biomassKg": {
+                    "weight": 91.9,
+                    "percent": 4.02
+                },
+                "biomassLb": {
+                    "weight": 202.6048189479025,
+                    "percent": 4.02
+                },
+                "averageWeight": 22.98
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "PC38A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PRECRIA 38",
+        "analysisDate": "2025-03-19T15:25:57.099Z",
+        "averageWeight": {
+            "value": 11.98438,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.16,
+            "days": 7
+        },
+        "productionDays": 25,
+        "population": 554984,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 6651.14,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 14663.253705083267,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 2.86,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 194050,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 8.39",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "8.39 - 10.79",
+                "animals": {
+                    "count": 26,
+                    "percent": 20.3
+                },
+                "biomassKg": {
+                    "weight": 262.49,
+                    "percent": 17.11
+                },
+                "biomassLb": {
+                    "weight": 578.6913920090851,
+                    "percent": 17.11
+                },
+                "averageWeight": 10.1
+            },
+            {
+                "range": "10.80 - 13.18",
+                "animals": {
+                    "count": 74,
+                    "percent": 57.8
+                },
+                "biomassKg": {
+                    "weight": 874.98,
+                    "percent": 57.04
+                },
+                "biomassLb": {
+                    "weight": 1929.0007016652419,
+                    "percent": 57.04
+                },
+                "averageWeight": 11.82
+            },
+            {
+                "range": "13.19 - 15.58",
+                "animals": {
+                    "count": 27,
+                    "percent": 21.1
+                },
+                "biomassKg": {
+                    "weight": 380.18,
+                    "percent": 24.78
+                },
+                "biomassLb": {
+                    "weight": 838.1534283744676,
+                    "percent": 24.78
+                },
+                "averageWeight": 14.08
+            },
+            {
+                "range": "> 15.58",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 16.35,
+                    "percent": 1.07
+                },
+                "biomassLb": {
+                    "weight": 36.04557986722749,
+                    "percent": 1.07
+                },
+                "averageWeight": 16.35
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "26A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 26",
+        "analysisDate": "2025-03-19T13:23:04.528Z",
+        "averageWeight": {
+            "value": 10.68707,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.75,
+            "days": 7
+        },
+        "productionDays": 21,
+        "population": 2536920,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 27112.24,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 59772.257632993256,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 17.1,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 148357,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 7.48",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 7.41,
+                    "percent": 0.47
+                },
+                "biomassLb": {
+                    "weight": 16.336253627899428,
+                    "percent": 0.47
+                },
+                "averageWeight": 7.41
+            },
+            {
+                "range": "7.48 - 9.62",
+                "animals": {
+                    "count": 27,
+                    "percent": 18.4
+                },
+                "biomassKg": {
+                    "weight": 243.73,
+                    "percent": 15.51
+                },
+                "biomassLb": {
+                    "weight": 537.332671623202,
+                    "percent": 15.51
+                },
+                "averageWeight": 9.03
+            },
+            {
+                "range": "9.63 - 11.76",
+                "animals": {
+                    "count": 93,
+                    "percent": 63.3
+                },
+                "biomassKg": {
+                    "weight": 996.21,
+                    "percent": 63.41
+                },
+                "biomassLb": {
+                    "weight": 2196.267102111969,
+                    "percent": 63.41
+                },
+                "averageWeight": 10.71
+            },
+            {
+                "range": "11.77 - 13.89",
+                "animals": {
+                    "count": 25,
+                    "percent": 17
+                },
+                "biomassKg": {
+                    "weight": 309.75,
+                    "percent": 19.72
+                },
+                "biomassLb": {
+                    "weight": 682.8818571176582,
+                    "percent": 19.72
+                },
+                "averageWeight": 12.39
+            },
+            {
+                "range": "> 13.89",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 13.9,
+                    "percent": 0.88
+                },
+                "biomassLb": {
+                    "weight": 30.64425444369798,
+                    "percent": 0.88
+                },
+                "averageWeight": 13.9
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "37A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 37",
+        "analysisDate": "2025-03-19T15:56:03.162Z",
+        "averageWeight": {
+            "value": 4.94574,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.17,
+            "days": 7
+        },
+        "productionDays": 15,
+        "population": 4809638,
+        "survivalRate": 100,
+        "uniformityWeight": 81,
+        "biomassKg": {
+            "value": 23787.22,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 52441.843322893634,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 31.5,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 152686,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 3.46",
+                "animals": {
+                    "count": 8,
+                    "percent": 6.2
+                },
+                "biomassKg": {
+                    "weight": 26.13,
+                    "percent": 4.1
+                },
+                "biomassLb": {
+                    "weight": 57.60678910890851,
+                    "percent": 4.1
+                },
+                "averageWeight": 3.27
+            },
+            {
+                "range": "3.46 - 4.45",
+                "animals": {
+                    "count": 36,
+                    "percent": 27.9
+                },
+                "biomassKg": {
+                    "weight": 147.12,
+                    "percent": 23.06
+                },
+                "biomassLb": {
+                    "weight": 324.3440801263919,
+                    "percent": 23.06
+                },
+                "averageWeight": 4.09
+            },
+            {
+                "range": "4.46 - 5.44",
+                "animals": {
+                    "count": 49,
+                    "percent": 38
+                },
+                "biomassKg": {
+                    "weight": 242.05,
+                    "percent": 37.94
+                },
+                "biomassLb": {
+                    "weight": 533.6289056184962,
+                    "percent": 37.94
+                },
+                "averageWeight": 4.94
+            },
+            {
+                "range": "5.45 - 6.43",
+                "animals": {
+                    "count": 27,
+                    "percent": 20.9
+                },
+                "biomassKg": {
+                    "weight": 161.41,
+                    "percent": 25.3
+                },
+                "biomassLb": {
+                    "weight": 355.84813739261085,
+                    "percent": 25.3
+                },
+                "averageWeight": 5.98
+            },
+            {
+                "range": "> 6.43",
+                "animals": {
+                    "count": 9,
+                    "percent": 7
+                },
+                "biomassKg": {
+                    "weight": 61.29,
+                    "percent": 9.61
+                },
+                "biomassLb": {
+                    "weight": 135.12132049311145,
+                    "percent": 9.61
+                },
+                "averageWeight": 6.81
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "19A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 19",
+        "analysisDate": "2025-03-19T13:34:42.351Z",
+        "averageWeight": {
+            "value": 5.458060000000001,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.37,
+            "days": 7
+        },
+        "productionDays": 8,
+        "population": 3124878,
+        "survivalRate": 100,
+        "uniformityWeight": 81,
+        "biomassKg": {
+            "value": 17055.77,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 37601.53637504969,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 22,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 142039,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 3.82",
+                "animals": {
+                    "count": 5,
+                    "percent": 3.2
+                },
+                "biomassKg": {
+                    "weight": 15.9,
+                    "percent": 1.88
+                },
+                "biomassLb": {
+                    "weight": 35.05349968739554,
+                    "percent": 1.88
+                },
+                "averageWeight": 3.18
+            },
+            {
+                "range": "3.82 - 4.91",
+                "animals": {
+                    "count": 43,
+                    "percent": 27.7
+                },
+                "biomassKg": {
+                    "weight": 190.97,
+                    "percent": 22.57
+                },
+                "biomassLb": {
+                    "weight": 421.01678209446067,
+                    "percent": 22.57
+                },
+                "averageWeight": 4.44
+            },
+            {
+                "range": "4.92 - 6",
+                "animals": {
+                    "count": 62,
+                    "percent": 40
+                },
+                "biomassKg": {
+                    "weight": 339.31,
+                    "percent": 40.11
+                },
+                "biomassLb": {
+                    "weight": 748.0505018195081,
+                    "percent": 40.11
+                },
+                "averageWeight": 5.47
+            },
+            {
+                "range": "6.01 - 7.1",
+                "animals": {
+                    "count": 36,
+                    "percent": 23.2
+                },
+                "biomassKg": {
+                    "weight": 231.83,
+                    "percent": 27.4
+                },
+                "biomassLb": {
+                    "weight": 511.0976624232017,
+                    "percent": 27.4
+                },
+                "averageWeight": 6.44
+            },
+            {
+                "range": "> 7.1",
+                "animals": {
+                    "count": 9,
+                    "percent": 5.8
+                },
+                "biomassKg": {
+                    "weight": 67.99,
+                    "percent": 8.04
+                },
+                "biomassLb": {
+                    "weight": 149.89229205949826,
+                    "percent": 8.04
+                },
+                "averageWeight": 7.55
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "07B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 7",
+        "analysisDate": "2025-03-19T16:26:38.970Z",
+        "averageWeight": {
+            "value": 1.95,
+            "unit": "g"
+        },
+        "productionDays": 5,
+        "population": 1471618,
+        "survivalRate": 100,
+        "uniformityWeight": 80,
+        "biomassKg": {
+            "value": 2869.66,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 6326.517353014558,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 9.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 159958,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 1.37",
+                "animals": {
+                    "count": 5,
+                    "percent": 3.6
+                },
+                "biomassKg": {
+                    "weight": 5.57,
+                    "percent": 2.04
+                },
+                "biomassLb": {
+                    "weight": 12.279748003697682,
+                    "percent": 2.04
+                },
+                "averageWeight": 1.11
+            },
+            {
+                "range": "1.37 - 1.76",
+                "animals": {
+                    "count": 36,
+                    "percent": 25.7
+                },
+                "biomassKg": {
+                    "weight": 58.37,
+                    "percent": 21.38
+                },
+                "biomassLb": {
+                    "weight": 128.68382243731304,
+                    "percent": 21.38
+                },
+                "averageWeight": 1.62
+            },
+            {
+                "range": "1.77 - 2.15",
+                "animals": {
+                    "count": 67,
+                    "percent": 47.9
+                },
+                "biomassKg": {
+                    "weight": 129.82,
+                    "percent": 47.55
+                },
+                "biomassLb": {
+                    "weight": 286.20410876840805,
+                    "percent": 47.55
+                },
+                "averageWeight": 1.94
+            },
+            {
+                "range": "2.16 - 2.54",
+                "animals": {
+                    "count": 23,
+                    "percent": 16.4
+                },
+                "biomassKg": {
+                    "weight": 52.91,
+                    "percent": 19.38
+                },
+                "biomassLb": {
+                    "weight": 116.64658292201871,
+                    "percent": 19.38
+                },
+                "averageWeight": 2.3
+            },
+            {
+                "range": "> 2.54",
+                "animals": {
+                    "count": 9,
+                    "percent": 6.4
+                },
+                "biomassKg": {
+                    "weight": 26.33,
+                    "percent": 9.64
+                },
+                "biomassLb": {
+                    "weight": 58.047713633278256,
+                    "percent": 9.64
+                },
+                "averageWeight": 2.93
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "44B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 44",
+        "analysisDate": "2025-03-19T15:32:35.486Z",
+        "averageWeight": {
+            "value": 3.6267600000000004,
+            "unit": "g"
+        },
+        "productionDays": 5,
+        "population": 2434544,
+        "survivalRate": 100,
+        "uniformityWeight": 80,
+        "biomassKg": {
+            "value": 8829.51,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 19465.737485839985,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 23.85,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 102077,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 2.54",
+                "animals": {
+                    "count": 7,
+                    "percent": 4.9
+                },
+                "biomassKg": {
+                    "weight": 16.56,
+                    "percent": 3.22
+                },
+                "biomassLb": {
+                    "weight": 36.50855061781572,
+                    "percent": 3.22
+                },
+                "averageWeight": 2.37
+            },
+            {
+                "range": "2.54 - 3.26",
+                "animals": {
+                    "count": 43,
+                    "percent": 30.3
+                },
+                "biomassKg": {
+                    "weight": 127.22,
+                    "percent": 24.7
+                },
+                "biomassLb": {
+                    "weight": 280.4720899516012,
+                    "percent": 24.7
+                },
+                "averageWeight": 2.96
+            },
+            {
+                "range": "3.27 - 3.99",
+                "animals": {
+                    "count": 49,
+                    "percent": 34.5
+                },
+                "biomassKg": {
+                    "weight": 177.33,
+                    "percent": 34.43
+                },
+                "biomassLb": {
+                    "weight": 390.94572953244347,
+                    "percent": 34.43
+                },
+                "averageWeight": 3.62
+            },
+            {
+                "range": "4.00 - 4.71",
+                "animals": {
+                    "count": 33,
+                    "percent": 23.2
+                },
+                "biomassKg": {
+                    "weight": 142.54,
+                    "percent": 27.68
+                },
+                "biomassLb": {
+                    "weight": 314.24690851832446,
+                    "percent": 27.68
+                },
+                "averageWeight": 4.32
+            },
+            {
+                "range": "> 4.71",
+                "animals": {
+                    "count": 10,
+                    "percent": 7
+                },
+                "biomassKg": {
+                    "weight": 51.34,
+                    "percent": 9.97
+                },
+                "biomassLb": {
+                    "weight": 113.18532540571616,
+                    "percent": 9.97
+                },
+                "averageWeight": 5.13
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "13A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 13",
+        "analysisDate": "2025-03-19T15:09:26.082Z",
+        "averageWeight": {
+            "value": 21.78512,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 5.45,
+            "days": 7
+        },
+        "productionDays": 36,
+        "population": 1685531,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 36719.5,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 80952.64036297612,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 20.24,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 83277,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 2
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 2
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 15.25",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "15.25 - 19.61",
+                "animals": {
+                    "count": 28,
+                    "percent": 23.1
+                },
+                "biomassKg": {
+                    "weight": 525.9,
+                    "percent": 19.95
+                },
+                "biomassLb": {
+                    "weight": 1159.411036830271,
+                    "percent": 19.95
+                },
+                "averageWeight": 18.78
+            },
+            {
+                "range": "19.62 - 23.96",
+                "animals": {
+                    "count": 71,
+                    "percent": 58.7
+                },
+                "biomassKg": {
+                    "weight": 1547.41,
+                    "percent": 58.7
+                },
+                "biomassLb": {
+                    "weight": 3411.455091275014,
+                    "percent": 58.7
+                },
+                "averageWeight": 21.79
+            },
+            {
+                "range": "23.97 - 28.32",
+                "animals": {
+                    "count": 21,
+                    "percent": 17.4
+                },
+                "biomassKg": {
+                    "weight": 532.41,
+                    "percent": 20.2
+                },
+                "biomassLb": {
+                    "weight": 1173.7631300985065,
+                    "percent": 20.2
+                },
+                "averageWeight": 25.35
+            },
+            {
+                "range": "> 28.32",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 30.27,
+                    "percent": 1.15
+                },
+                "biomassLb": {
+                    "weight": 66.73392676336243,
+                    "percent": 1.15
+                },
+                "averageWeight": 30.27
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "32A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 32",
+        "analysisDate": "2025-03-19T14:37:59.119Z",
+        "averageWeight": {
+            "value": 14.67669,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.92,
+            "days": 7
+        },
+        "productionDays": 35,
+        "population": 2216418,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 32529.68,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 71715.66840950168,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 13.29,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 166773,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 7
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 10.27",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "10.27 - 13.21",
+                "animals": {
+                    "count": 21,
+                    "percent": 15.8
+                },
+                "biomassKg": {
+                    "weight": 254.72,
+                    "percent": 13.05
+                },
+                "biomassLb": {
+                    "weight": 561.5614742373201,
+                    "percent": 13.05
+                },
+                "averageWeight": 12.13
+            },
+            {
+                "range": "13.22 - 16.14",
+                "animals": {
+                    "count": 86,
+                    "percent": 64.7
+                },
+                "biomassKg": {
+                    "weight": 1249.52,
+                    "percent": 64.01
+                },
+                "biomassLb": {
+                    "weight": 2754.720058452482,
+                    "percent": 64.01
+                },
+                "averageWeight": 14.53
+            },
+            {
+                "range": "16.15 - 19.08",
+                "animals": {
+                    "count": 24,
+                    "percent": 18
+                },
+                "biomassKg": {
+                    "weight": 408.57,
+                    "percent": 20.93
+                },
+                "biomassLb": {
+                    "weight": 900.7426646087542,
+                    "percent": 20.93
+                },
+                "averageWeight": 17.02
+            },
+            {
+                "range": "> 19.08",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.5
+                },
+                "biomassKg": {
+                    "weight": 39.19,
+                    "percent": 2.01
+                },
+                "biomassLb": {
+                    "weight": 86.39916055025351,
+                    "percent": 2.01
+                },
+                "averageWeight": 19.6
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "29A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 29",
+        "analysisDate": "2025-03-19T15:00:35.587Z",
+        "averageWeight": {
+            "value": 17.05674,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.51,
+            "days": 7
+        },
+        "productionDays": 31,
+        "population": 2337500,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 39870.13,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 87898.5905340515,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 11.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 208705,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 8
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 11.94",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 11.4,
+                    "percent": 0.47
+                },
+                "biomassLb": {
+                    "weight": 25.132697889076045,
+                    "percent": 0.47
+                },
+                "averageWeight": 11.4
+            },
+            {
+                "range": "11.94 - 15.35",
+                "animals": {
+                    "count": 29,
+                    "percent": 20.6
+                },
+                "biomassKg": {
+                    "weight": 419.37,
+                    "percent": 17.44
+                },
+                "biomassLb": {
+                    "weight": 924.552588924721,
+                    "percent": 17.44
+                },
+                "averageWeight": 14.46
+            },
+            {
+                "range": "15.36 - 18.76",
+                "animals": {
+                    "count": 84,
+                    "percent": 59.6
+                },
+                "biomassKg": {
+                    "weight": 1420.58,
+                    "percent": 59.07
+                },
+                "biomassLb": {
+                    "weight": 3131.842804145934,
+                    "percent": 59.07
+                },
+                "averageWeight": 16.91
+            },
+            {
+                "range": "18.77 - 22.17",
+                "animals": {
+                    "count": 23,
+                    "percent": 16.3
+                },
+                "biomassKg": {
+                    "weight": 459.05,
+                    "percent": 19.09
+                },
+                "biomassLb": {
+                    "weight": 1012.0320145596805,
+                    "percent": 19.09
+                },
+                "averageWeight": 19.96
+            },
+            {
+                "range": "> 22.17",
+                "animals": {
+                    "count": 4,
+                    "percent": 2.8
+                },
+                "biomassKg": {
+                    "weight": 94.59,
+                    "percent": 3.93
+                },
+                "biomassLb": {
+                    "weight": 208.53525380067566,
+                    "percent": 3.93
+                },
+                "averageWeight": 23.65
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "03A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 3",
+        "analysisDate": "2025-03-19T13:52:25.921Z",
+        "averageWeight": {
+            "value": 16.41667,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.36,
+            "days": 7
+        },
+        "productionDays": 33,
+        "population": 3419469,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 56136.29,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 123759.3348406632,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 21.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 161295,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 3
+            },
+            {
+                "key": "animalsWithShedding",
+                "value": 2
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 11.49",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "11.49 - 14.78",
+                "animals": {
+                    "count": 22,
+                    "percent": 18.3
+                },
+                "biomassKg": {
+                    "weight": 308.89,
+                    "percent": 15.68
+                },
+                "biomassLb": {
+                    "weight": 680.9858816628683,
+                    "percent": 15.68
+                },
+                "averageWeight": 14.04
+            },
+            {
+                "range": "14.79 - 18.06",
+                "animals": {
+                    "count": 82,
+                    "percent": 68.3
+                },
+                "biomassKg": {
+                    "weight": 1349.12,
+                    "percent": 68.48
+                },
+                "biomassLb": {
+                    "weight": 2974.30047158862,
+                    "percent": 68.48
+                },
+                "averageWeight": 16.45
+            },
+            {
+                "range": "18.07 - 21.34",
+                "animals": {
+                    "count": 14,
+                    "percent": 11.7
+                },
+                "biomassKg": {
+                    "weight": 266.91,
+                    "percent": 13.55
+                },
+                "biomassLb": {
+                    "weight": 588.4358239976567,
+                    "percent": 13.55
+                },
+                "averageWeight": 19.07
+            },
+            {
+                "range": "> 21.34",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.7
+                },
+                "biomassKg": {
+                    "weight": 45.08,
+                    "percent": 2.29
+                },
+                "biomassLb": {
+                    "weight": 99.3843877929428,
+                    "percent": 2.29
+                },
+                "averageWeight": 22.54
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "04A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 4",
+        "analysisDate": "2025-03-19T14:05:59.577Z",
+        "averageWeight": {
+            "value": 12.10744,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.05,
+            "days": 7
+        },
+        "productionDays": 27,
+        "population": 2279683,
+        "survivalRate": 100,
+        "uniformityWeight": 85,
+        "biomassKg": {
+            "value": 27601.13,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 60850.07558658891,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 13.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 172703,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 8.48",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.7
+                },
+                "biomassKg": {
+                    "weight": 16.43,
+                    "percent": 1.12
+                },
+                "biomassLb": {
+                    "weight": 36.221949676975385,
+                    "percent": 1.12
+                },
+                "averageWeight": 8.22
+            },
+            {
+                "range": "8.48 - 10.9",
+                "animals": {
+                    "count": 29,
+                    "percent": 24
+                },
+                "biomassKg": {
+                    "weight": 289.97,
+                    "percent": 19.79
+                },
+                "biomassLb": {
+                    "weight": 639.2744216574895,
+                    "percent": 19.79
+                },
+                "averageWeight": 10
+            },
+            {
+                "range": "10.91 - 13.32",
+                "animals": {
+                    "count": 62,
+                    "percent": 51.2
+                },
+                "biomassKg": {
+                    "weight": 748.96,
+                    "percent": 51.12
+                },
+                "biomassLb": {
+                    "weight": 1651.174158859859,
+                    "percent": 51.12
+                },
+                "averageWeight": 12.08
+            },
+            {
+                "range": "13.33 - 15.74",
+                "animals": {
+                    "count": 23,
+                    "percent": 19
+                },
+                "biomassKg": {
+                    "weight": 326.1,
+                    "percent": 22.26
+                },
+                "biomassLb": {
+                    "weight": 718.9274369848858,
+                    "percent": 22.26
+                },
+                "averageWeight": 14.18
+            },
+            {
+                "range": "> 15.74",
+                "animals": {
+                    "count": 5,
+                    "percent": 4.1
+                },
+                "biomassKg": {
+                    "weight": 83.54,
+                    "percent": 5.7
+                },
+                "biomassLb": {
+                    "weight": 184.17417382924677,
+                    "percent": 5.7
+                },
+                "averageWeight": 16.71
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "06A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 6",
+        "analysisDate": "2025-03-19T16:24:45.323Z",
+        "averageWeight": {
+            "value": 10.62857,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.85,
+            "days": 7
+        },
+        "productionDays": 25,
+        "population": 3100891,
+        "survivalRate": 100,
+        "uniformityWeight": 85,
+        "biomassKg": {
+            "value": 32958.04,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 72660.04055579682,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 18.5,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 167615,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 7.44",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 7.39,
+                    "percent": 0.5
+                },
+                "biomassLb": {
+                    "weight": 16.29216117546245,
+                    "percent": 0.5
+                },
+                "averageWeight": 7.39
+            },
+            {
+                "range": "7.44 - 9.57",
+                "animals": {
+                    "count": 38,
+                    "percent": 27.1
+                },
+                "biomassKg": {
+                    "weight": 332.88,
+                    "percent": 22.37
+                },
+                "biomassLb": {
+                    "weight": 733.8747783610204,
+                    "percent": 22.37
+                },
+                "averageWeight": 8.76
+            },
+            {
+                "range": "9.58 - 11.69",
+                "animals": {
+                    "count": 70,
+                    "percent": 50
+                },
+                "biomassKg": {
+                    "weight": 751.74,
+                    "percent": 50.52
+                },
+                "biomassLb": {
+                    "weight": 1657.3030097485985,
+                    "percent": 50.52
+                },
+                "averageWeight": 10.74
+            },
+            {
+                "range": "11.70 - 13.82",
+                "animals": {
+                    "count": 28,
+                    "percent": 20
+                },
+                "biomassKg": {
+                    "weight": 353.16,
+                    "percent": 23.73
+                },
+                "biomassLb": {
+                    "weight": 778.5845251321136,
+                    "percent": 23.73
+                },
+                "averageWeight": 12.61
+            },
+            {
+                "range": "> 13.82",
+                "animals": {
+                    "count": 3,
+                    "percent": 2.1
+                },
+                "biomassKg": {
+                    "weight": 42.84,
+                    "percent": 2.88
+                },
+                "biomassLb": {
+                    "weight": 94.44603312000156,
+                    "percent": 2.88
+                },
+                "averageWeight": 14.28
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "41A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 41",
+        "analysisDate": "2025-03-19T14:43:18.348Z",
+        "averageWeight": {
+            "value": 9.754100000000001,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.1,
+            "days": 7
+        },
+        "productionDays": 25,
+        "population": 3744938,
+        "survivalRate": 100,
+        "uniformityWeight": 83,
+        "biomassKg": {
+            "value": 36528.5,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 80531.557442203,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 21.33,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 175571,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 6.83",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.6
+                },
+                "biomassKg": {
+                    "weight": 12.16,
+                    "percent": 1.02
+                },
+                "biomassLb": {
+                    "weight": 26.80821108168111,
+                    "percent": 1.02
+                },
+                "averageWeight": 6.08
+            },
+            {
+                "range": "6.83 - 8.78",
+                "animals": {
+                    "count": 33,
+                    "percent": 27
+                },
+                "biomassKg": {
+                    "weight": 268.65,
+                    "percent": 22.58
+                },
+                "biomassLb": {
+                    "weight": 592.2718673596735,
+                    "percent": 22.58
+                },
+                "averageWeight": 8.14
+            },
+            {
+                "range": "8.79 - 10.73",
+                "animals": {
+                    "count": 55,
+                    "percent": 45.1
+                },
+                "biomassKg": {
+                    "weight": 529.74,
+                    "percent": 44.52
+                },
+                "biomassLb": {
+                    "weight": 1167.8767876981703,
+                    "percent": 44.52
+                },
+                "averageWeight": 9.63
+            },
+            {
+                "range": "10.74 - 12.68",
+                "animals": {
+                    "count": 26,
+                    "percent": 21.3
+                },
+                "biomassKg": {
+                    "weight": 298.09,
+                    "percent": 25.05
+                },
+                "biomassLb": {
+                    "weight": 657.1759573469014,
+                    "percent": 25.05
+                },
+                "averageWeight": 11.47
+            },
+            {
+                "range": "> 12.68",
+                "animals": {
+                    "count": 6,
+                    "percent": 4.9
+                },
+                "biomassKg": {
+                    "weight": 81.35,
+                    "percent": 6.84
+                },
+                "biomassLb": {
+                    "weight": 179.34605028739787,
+                    "percent": 6.84
+                },
+                "averageWeight": 13.56
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "15A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 15",
+        "analysisDate": "2025-03-19T16:40:57.021Z",
+        "averageWeight": {
+            "value": 8.61333,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.4,
+            "days": 7
+        },
+        "productionDays": 17,
+        "population": 1343050,
+        "survivalRate": 100,
+        "uniformityWeight": 80,
+        "biomassKg": {
+            "value": 11568.13,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 25503.361090487473,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 7.67,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 175104,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 6.03",
+                "animals": {
+                    "count": 6,
+                    "percent": 4
+                },
+                "biomassKg": {
+                    "weight": 32.56,
+                    "percent": 2.52
+                },
+                "biomassLb": {
+                    "weight": 71.78251256739614,
+                    "percent": 2.52
+                },
+                "averageWeight": 5.43
+            },
+            {
+                "range": "6.03 - 7.75",
+                "animals": {
+                    "count": 41,
+                    "percent": 27.3
+                },
+                "biomassKg": {
+                    "weight": 286.14,
+                    "percent": 22.15
+                },
+                "biomassLb": {
+                    "weight": 630.8307170158087,
+                    "percent": 22.15
+                },
+                "averageWeight": 6.98
+            },
+            {
+                "range": "7.76 - 9.47",
+                "animals": {
+                    "count": 61,
+                    "percent": 40.7
+                },
+                "biomassKg": {
+                    "weight": 523.53,
+                    "percent": 40.52
+                },
+                "biomassLb": {
+                    "weight": 1154.1860812164894,
+                    "percent": 40.52
+                },
+                "averageWeight": 8.58
+            },
+            {
+                "range": "9.48 - 11.2",
+                "animals": {
+                    "count": 31,
+                    "percent": 20.7
+                },
+                "biomassKg": {
+                    "weight": 315.88,
+                    "percent": 24.45
+                },
+                "biomassLb": {
+                    "weight": 696.3961937895914,
+                    "percent": 24.45
+                },
+                "averageWeight": 10.19
+            },
+            {
+                "range": "> 11.2",
+                "animals": {
+                    "count": 11,
+                    "percent": 7.3
+                },
+                "biomassKg": {
+                    "weight": 133.89,
+                    "percent": 10.36
+                },
+                "biomassLb": {
+                    "weight": 295.1769228393325,
+                    "percent": 10.36
+                },
+                "averageWeight": 12.17
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "10A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 10",
+        "analysisDate": "2025-03-19T15:15:07.462Z",
+        "averageWeight": {
+            "value": 3.84746,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.3,
+            "days": 7
+        },
+        "productionDays": 8,
+        "population": 1646261,
+        "survivalRate": 100,
+        "uniformityWeight": 79,
+        "biomassKg": {
+            "value": 6333.92,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 13963.903316980397,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 9.8,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 167985,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 2.69",
+                "animals": {
+                    "count": 11,
+                    "percent": 9.3
+                },
+                "biomassKg": {
+                    "weight": 27.91,
+                    "percent": 6.15
+                },
+                "biomassLb": {
+                    "weight": 61.53101737579933,
+                    "percent": 6.15
+                },
+                "averageWeight": 2.54
+            },
+            {
+                "range": "2.69 - 3.46",
+                "animals": {
+                    "count": 32,
+                    "percent": 27.1
+                },
+                "biomassKg": {
+                    "weight": 101.13,
+                    "percent": 22.28
+                },
+                "biomassLb": {
+                    "weight": 222.95348574756667,
+                    "percent": 22.28
+                },
+                "averageWeight": 3.16
+            },
+            {
+                "range": "3.47 - 4.23",
+                "animals": {
+                    "count": 35,
+                    "percent": 29.7
+                },
+                "biomassKg": {
+                    "weight": 134.04,
+                    "percent": 29.52
+                },
+                "biomassLb": {
+                    "weight": 295.50761623260985,
+                    "percent": 29.52
+                },
+                "averageWeight": 3.83
+            },
+            {
+                "range": "4.24 - 5",
+                "animals": {
+                    "count": 28,
+                    "percent": 23.7
+                },
+                "biomassKg": {
+                    "weight": 127.32,
+                    "percent": 28.04
+                },
+                "biomassLb": {
+                    "weight": 280.6925522137861,
+                    "percent": 28.04
+                },
+                "averageWeight": 4.55
+            },
+            {
+                "range": "> 5",
+                "animals": {
+                    "count": 12,
+                    "percent": 10.2
+                },
+                "biomassKg": {
+                    "weight": 63.6,
+                    "percent": 14.01
+                },
+                "biomassLb": {
+                    "weight": 140.21399874958215,
+                    "percent": 14.01
+                },
+                "averageWeight": 5.3
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "38A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 38",
+        "analysisDate": "2025-03-19T15:54:01.566Z",
+        "averageWeight": {
+            "value": 4.7923100000000005,
+            "unit": "g"
+        },
+        "productionDays": 6,
+        "population": 3665282,
+        "survivalRate": 100,
+        "uniformityWeight": 78,
+        "biomassKg": {
+            "value": 17565.17,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 38724.57113861945,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 28.7,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 127710,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 3.35",
+                "animals": {
+                    "count": 11,
+                    "percent": 8.5
+                },
+                "biomassKg": {
+                    "weight": 33.57,
+                    "percent": 5.39
+                },
+                "biomassLb": {
+                    "weight": 74.0091814154634,
+                    "percent": 5.39
+                },
+                "averageWeight": 3.05
+            },
+            {
+                "range": "3.35 - 4.31",
+                "animals": {
+                    "count": 34,
+                    "percent": 26.2
+                },
+                "biomassKg": {
+                    "weight": 131.21,
+                    "percent": 21.06
+                },
+                "biomassLb": {
+                    "weight": 289.26853421277787,
+                    "percent": 21.06
+                },
+                "averageWeight": 3.86
+            },
+            {
+                "range": "4.32 - 5.27",
+                "animals": {
+                    "count": 43,
+                    "percent": 33.1
+                },
+                "biomassKg": {
+                    "weight": 204.65,
+                    "percent": 32.85
+                },
+                "biomassLb": {
+                    "weight": 451.17601956135195,
+                    "percent": 32.85
+                },
+                "averageWeight": 4.76
+            },
+            {
+                "range": "5.28 - 6.23",
+                "animals": {
+                    "count": 34,
+                    "percent": 26.2
+                },
+                "biomassKg": {
+                    "weight": 198.36,
+                    "percent": 31.84
+                },
+                "biomassLb": {
+                    "weight": 437.3089432699232,
+                    "percent": 31.84
+                },
+                "averageWeight": 5.83
+            },
+            {
+                "range": "> 6.23",
+                "animals": {
+                    "count": 8,
+                    "percent": 6.2
+                },
+                "biomassKg": {
+                    "weight": 55.21,
+                    "percent": 8.86
+                },
+                "biomassLb": {
+                    "weight": 121.71721495227092,
+                    "percent": 8.86
+                },
+                "averageWeight": 6.9
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "25A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 25",
+        "analysisDate": "2025-03-19T13:25:24.238Z",
+        "averageWeight": {
+            "value": 20.66912,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.41,
+            "days": 7
+        },
+        "productionDays": 40,
+        "population": 2675161,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 55293.22,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 121900.68364686117,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 16.6,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 161154,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 14.47",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 13.64,
+                    "percent": 0.49
+                },
+                "biomassLb": {
+                    "weight": 30.0710525620173,
+                    "percent": 0.49
+                },
+                "averageWeight": 13.64
+            },
+            {
+                "range": "14.47 - 18.6",
+                "animals": {
+                    "count": 28,
+                    "percent": 20.6
+                },
+                "biomassKg": {
+                    "weight": 493.2,
+                    "percent": 17.55
+                },
+                "biomassLb": {
+                    "weight": 1087.319877095816,
+                    "percent": 17.55
+                },
+                "averageWeight": 17.61
+            },
+            {
+                "range": "18.61 - 22.74",
+                "animals": {
+                    "count": 79,
+                    "percent": 58.1
+                },
+                "biomassKg": {
+                    "weight": 1632.61,
+                    "percent": 58.08
+                },
+                "biomassLb": {
+                    "weight": 3599.28893865653,
+                    "percent": 58.08
+                },
+                "averageWeight": 20.67
+            },
+            {
+                "range": "22.75 - 26.87",
+                "animals": {
+                    "count": 27,
+                    "percent": 19.9
+                },
+                "biomassKg": {
+                    "weight": 643.62,
+                    "percent": 22.9
+                },
+                "biomassLb": {
+                    "weight": 1418.9392118743092,
+                    "percent": 22.9
+                },
+                "averageWeight": 23.84
+            },
+            {
+                "range": "> 26.87",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomassKg": {
+                    "weight": 27.93,
+                    "percent": 0.99
+                },
+                "biomassLb": {
+                    "weight": 61.5751098282363,
+                    "percent": 0.99
+                },
+                "averageWeight": 27.93
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "45A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 45",
+        "analysisDate": "2025-03-19T15:29:20.986Z",
+        "averageWeight": {
+            "value": 18.31061,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.83,
+            "days": 7
+        },
+        "productionDays": 39,
+        "population": 4498170,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 82364.24,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 181582.0667353818,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 26.14,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 172079,
+            "unit": "anim/ha"
+        },
+        "observations": [
+            {
+                "key": "Animales flácidos",
+                "value": 2
+            }
+        ],
+        "weightGroupData": [
+            {
+                "range": "< 12.82",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomassKg": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "biomassLb": {
+                    "weight": 0,
+                    "percent": 0
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "12.82 - 16.48",
+                "animals": {
+                    "count": 30,
+                    "percent": 22.7
+                },
+                "biomassKg": {
+                    "weight": 466.04,
+                    "percent": 19.28
+                },
+                "biomassLb": {
+                    "weight": 1027.4423266864035,
+                    "percent": 19.28
+                },
+                "averageWeight": 15.53
+            },
+            {
+                "range": "16.49 - 20.14",
+                "animals": {
+                    "count": 74,
+                    "percent": 56.1
+                },
+                "biomassKg": {
+                    "weight": 1349.18,
+                    "percent": 55.82
+                },
+                "biomassLb": {
+                    "weight": 2974.4327489459315,
+                    "percent": 55.82
+                },
+                "averageWeight": 18.23
+            },
+            {
+                "range": "20.15 - 23.8",
+                "animals": {
+                    "count": 27,
+                    "percent": 20.5
+                },
+                "biomassKg": {
+                    "weight": 577.21,
+                    "percent": 23.88
+                },
+                "biomassLb": {
+                    "weight": 1272.530223557332,
+                    "percent": 23.88
+                },
+                "averageWeight": 21.38
+            },
+            {
+                "range": "> 23.8",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 24.57,
+                    "percent": 1.02
+                },
+                "biomassLb": {
+                    "weight": 54.16757781882442,
+                    "percent": 1.02
+                },
+                "averageWeight": 24.57
+            }
+        ]
+    },
+    {
+        "campusName": "Marfrisco",
+        "stockingName": "09A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PISCINA 9",
+        "analysisDate": "2025-03-19T14:35:06.365Z",
+        "averageWeight": {
+            "value": 12.702290000000001,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 5.67,
+            "days": 7
+        },
+        "productionDays": 28,
+        "population": 1938133,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 24618.73,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 54275.009079187104,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 9.2,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 210666,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 8.89",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 8.89,
+                    "percent": 0.53
+                },
+                "biomassLb": {
+                    "weight": 19.599095108235616,
+                    "percent": 0.53
+                },
+                "averageWeight": 8.89
+            },
+            {
+                "range": "8.89 - 11.43",
+                "animals": {
+                    "count": 26,
+                    "percent": 19.8
+                },
+                "biomassKg": {
+                    "weight": 282.15,
+                    "percent": 16.96
+                },
+                "biomassLb": {
+                    "weight": 622.034272754632,
+                    "percent": 16.96
+                },
+                "averageWeight": 10.85
+            },
+            {
+                "range": "11.44 - 13.97",
+                "animals": {
+                    "count": 82,
+                    "percent": 62.6
+                },
+                "biomassKg": {
+                    "weight": 1042.66,
+                    "percent": 62.66
+                },
+                "biomassLb": {
+                    "weight": 2298.671822896845,
+                    "percent": 62.66
+                },
+                "averageWeight": 12.72
+            },
+            {
+                "range": "13.98 - 16.51",
+                "animals": {
+                    "count": 21,
+                    "percent": 16
+                },
+                "biomassKg": {
+                    "weight": 312.95,
+                    "percent": 18.81
+                },
+                "biomassLb": {
+                    "weight": 689.9366495075743,
+                    "percent": 18.81
+                },
+                "averageWeight": 14.9
+            },
+            {
+                "range": "> 16.51",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.8
+                },
+                "biomassKg": {
+                    "weight": 17.35,
+                    "percent": 1.04
+                },
+                "biomassLb": {
+                    "weight": 38.25020248907626,
+                    "percent": 1.04
+                },
+                "averageWeight": 17.35
+            }
+        ]
+    }
+]

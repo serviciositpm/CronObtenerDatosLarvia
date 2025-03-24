@@ -3,6 +3,7 @@ export interface AnalysisData {
     stockingName: string;
     tankName: string;
     analysisDate: string;
+    stockingType: string;
     averageWeight: {
       value: number;
       unit: string;

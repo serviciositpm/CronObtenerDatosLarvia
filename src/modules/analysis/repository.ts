@@ -28,6 +28,7 @@ export class AnalysisRepository {
         .input("sizeUnit", sql.VarChar(20), data.size.unit)
         .input("density", sql.Float, data.density.value)
         .input("densityUnit", sql.VarChar(20), data.density.unit)
+        .input("stockingType", sql.VarChar(40), data.stockingType)
         .output("idInserted", sql.Int) // Variable de salida para el ID insertado
         .execute(spname); // Llamado al SP
 

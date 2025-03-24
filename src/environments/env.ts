@@ -14,3 +14,4 @@ export const CAMPUS_ID_SC= process.env.CAMPUS_ID_SC!;
 export const CAMPUS_ID_QZ= process.env.CAMPUS_ID_QZ!;
 export const CAMPUS_ID_BV= process.env.CAMPUS_ID_BV!;
 export const BASE_URL_API= process.env.BASE_URL_API!;
+export const TIME_ZONE= process.env.TIME_ZONE!;

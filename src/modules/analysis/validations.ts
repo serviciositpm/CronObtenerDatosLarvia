@@ -11,7 +11,7 @@ export function validateAndNormalizeAnalysisData(data: AnalysisData[]): Analysis
         analysis.population = analysis.population ?? 0;
         analysis.survivalRate = analysis.survivalRate ?? 0;
         analysis.uniformityWeight = analysis.uniformityWeight ?? 0;
-
+        analysis.stockingType = analysis.stockingType ?? '';
         // Asegurar que las propiedades anidadas existen antes de acceder a sus valores
         analysis.averageWeight = analysis.averageWeight ?? { value: 0, unit: '' };
         analysis.weightIncrease = analysis.weightIncrease ?? { value: 0, unit: '', days: 0 };
