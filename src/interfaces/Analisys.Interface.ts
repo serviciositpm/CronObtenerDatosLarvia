@@ -35,8 +35,9 @@ export interface AnalysisData {
     weightGroupData: Array<{
       range: string;
       animals: { count: number; percent: number };
-      biomassKg: { weight: number; percent: number };
-      biomassLb: { weight: number; percent: number };
+      biomass: { weight: number; percent: number; unit: string };
+      /* biomassKg: { weight: number; percent: number };
+      biomassLb: { weight: number; percent: number }; */
       averageWeight: number;
     }>;
   }

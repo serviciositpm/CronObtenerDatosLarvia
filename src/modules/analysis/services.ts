@@ -43,10 +43,14 @@ export class AnalysisService {
                             group.range,
                             group.animals.count,    
                             group.animals.percent,
-                            group.biomassKg.weight,
+                            group.biomass.weight,
+                            group.biomass.percent,
+                            group.biomass.weight,
+                            group.biomass.percent,
+                            /* group.biomassKg.weight,
                             group.biomassKg.percent,
                             group.biomassLb.weight,
-                            group.biomassLb.percent,
+                            group.biomassLb.percent, */
                             group.averageWeight
                         );
 

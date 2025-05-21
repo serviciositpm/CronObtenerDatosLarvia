@@ -44,13 +44,10 @@ export function validateAndNormalizeAnalysisData(data: AnalysisData[]): Analysis
                 count: group.animals?.count ?? 0,
                 percent: group.animals?.percent ?? 0,
             },
-            biomassKg: {
-                weight: group.biomassKg?.weight ?? 0,
-                percent: group.biomassKg?.percent ?? 0,
-            },
-            biomassLb: {
-                weight: group.biomassLb?.weight ?? 0,
-                percent: group.biomassLb?.percent ?? 0,
+            biomass: {
+                weight: group.biomass?.weight ?? 0,
+                percent: group.biomass?.percent ?? 0,
+                unit: group.biomass?.unit ?? '',
             },
             averageWeight: group.averageWeight ?? 0,
         })) ?? [];

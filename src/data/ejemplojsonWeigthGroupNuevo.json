@@ -1,0 +1,2393 @@
+[
+    {
+        "campusName": "Bellavista",
+        "stockingName": "01A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS1",
+        "analysisDate": "2025-04-30T14:25:34.566Z",
+        "averageWeight": {
+            "value": 23.06711,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.24,
+            "days": 7
+        },
+        "productionDays": 47,
+        "population": 1626087,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 37509.13,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 82693.47652386656,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 11.8,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 137803,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 16.15",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomass": {
+                    "weight": 15.63,
+                    "percent": 0.45,
+                    "unit": "g"
+                },
+                "averageWeight": 15.63
+            },
+            {
+                "range": "16.15 - 20.76",
+                "animals": {
+                    "count": 27,
+                    "percent": 18.1
+                },
+                "biomass": {
+                    "weight": 516.71,
+                    "percent": 15.03,
+                    "unit": "g"
+                },
+                "averageWeight": 19.14
+            },
+            {
+                "range": "20.77 - 25.37",
+                "animals": {
+                    "count": 96,
+                    "percent": 64.4
+                },
+                "biomass": {
+                    "weight": 2209.46,
+                    "percent": 64.28,
+                    "unit": "g"
+                },
+                "averageWeight": 23.02
+            },
+            {
+                "range": "25.38 - 29.99",
+                "animals": {
+                    "count": 20,
+                    "percent": 13.4
+                },
+                "biomass": {
+                    "weight": 539.15,
+                    "percent": 15.69,
+                    "unit": "g"
+                },
+                "averageWeight": 26.96
+            },
+            {
+                "range": "> 29.99",
+                "animals": {
+                    "count": 5,
+                    "percent": 3.4
+                },
+                "biomass": {
+                    "weight": 156.05,
+                    "percent": 4.54,
+                    "unit": "g"
+                },
+                "averageWeight": 31.21
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "32A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 32",
+        "analysisDate": "2025-04-30T09:25:02.588Z",
+        "averageWeight": {
+            "value": 21.11765,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.38,
+            "days": 7
+        },
+        "productionDays": 47,
+        "population": 1233719,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 26053.25,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 57437.584322681614,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 8.16,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 151191,
+            "unit": "anim/ha"
+        },
+        "weightGroupData": [
+            {
+                "range": "< 14.78",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.2
+                },
+                "biomass": {
+                    "weight": 29.03,
+                    "percent": 0.81,
+                    "unit": "g"
+                },
+                "averageWeight": 14.52
+            },
+            {
+                "range": "14.78 - 19.01",
+                "animals": {
+                    "count": 34,
+                    "percent": 20
+                },
+                "biomass": {
+                    "weight": 605.44,
+                    "percent": 16.86,
+                    "unit": "g"
+                },
+                "averageWeight": 17.81
+            },
+            {
+                "range": "19.02 - 23.23",
+                "animals": {
+                    "count": 97,
+                    "percent": 57.1
+                },
+                "biomass": {
+                    "weight": 2034.72,
+                    "percent": 56.68,
+                    "unit": "g"
+                },
+                "averageWeight": 20.98
+            },
+            {
+                "range": "23.24 - 27.45",
+                "animals": {
+                    "count": 35,
+                    "percent": 20.6
+                },
+                "biomass": {
+                    "weight": 862.37,
+                    "percent": 24.02,
+                    "unit": "g"
+                },
+                "averageWeight": 24.64
+            },
+            {
+                "range": "> 27.45",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.2
+                },
+                "biomass": {
+                    "weight": 58.43,
+                    "percent": 1.63,
+                    "unit": "g"
+                },
+                "averageWeight": 29.22
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "04A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 4",
+        "analysisDate": "2025-04-30T14:29:08.580Z",
+        "averageWeight": {
+            "value": 20.44595,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.03,
+            "days": 7
+        },
+        "productionDays": 45,
+        "population": 2014079,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 41179.76,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 90785.83045830336,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 12.83,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 156981,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 14.31",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomass": {
+                    "weight": 13.79,
+                    "percent": 0.46,
+                    "unit": "g"
+                },
+                "averageWeight": 13.79
+            },
+            {
+                "range": "14.31 - 18.4",
+                "animals": {
+                    "count": 31,
+                    "percent": 20.9
+                },
+                "biomass": {
+                    "weight": 523.83,
+                    "percent": 17.31,
+                    "unit": "g"
+                },
+                "averageWeight": 16.9
+            },
+            {
+                "range": "18.41 - 22.49",
+                "animals": {
+                    "count": 84,
+                    "percent": 56.8
+                },
+                "biomass": {
+                    "weight": 1711.52,
+                    "percent": 56.56,
+                    "unit": "g"
+                },
+                "averageWeight": 20.38
+            },
+            {
+                "range": "22.50 - 26.58",
+                "animals": {
+                    "count": 29,
+                    "percent": 19.6
+                },
+                "biomass": {
+                    "weight": 693.59,
+                    "percent": 22.92,
+                    "unit": "g"
+                },
+                "averageWeight": 23.92
+            },
+            {
+                "range": "> 26.58",
+                "animals": {
+                    "count": 3,
+                    "percent": 2
+                },
+                "biomass": {
+                    "weight": 83.27,
+                    "percent": 2.75,
+                    "unit": "g"
+                },
+                "averageWeight": 27.76
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "29A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 29",
+        "analysisDate": "2025-04-30T16:34:43.000Z",
+        "averageWeight": {
+            "value": 18.1,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.75,
+            "days": 7
+        },
+        "productionDays": 44,
+        "population": 987656,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 17876.57,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 39411.090623063166,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 8,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 123457,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 12.67",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomass": {
+                    "weight": 0,
+                    "percent": 0,
+                    "unit": "g"
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "12.67 - 16.29",
+                "animals": {
+                    "count": 24,
+                    "percent": 21.8
+                },
+                "biomass": {
+                    "weight": 360.31,
+                    "percent": 18.1,
+                    "unit": "g"
+                },
+                "averageWeight": 15.01
+            },
+            {
+                "range": "16.30 - 19.91",
+                "animals": {
+                    "count": 67,
+                    "percent": 60.9
+                },
+                "biomass": {
+                    "weight": 1215.36,
+                    "percent": 61.04,
+                    "unit": "g"
+                },
+                "averageWeight": 18.14
+            },
+            {
+                "range": "19.92 - 23.53",
+                "animals": {
+                    "count": 16,
+                    "percent": 14.5
+                },
+                "biomass": {
+                    "weight": 341.96,
+                    "percent": 17.18,
+                    "unit": "g"
+                },
+                "averageWeight": 21.37
+            },
+            {
+                "range": "> 23.53",
+                "animals": {
+                    "count": 3,
+                    "percent": 2.7
+                },
+                "biomass": {
+                    "weight": 73.37,
+                    "percent": 3.69,
+                    "unit": "g"
+                },
+                "averageWeight": 24.46
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "26B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 26",
+        "analysisDate": "2025-04-30T16:31:49.847Z",
+        "averageWeight": {
+            "value": 15.63934,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.52,
+            "days": 7
+        },
+        "productionDays": 37,
+        "population": 1963630,
+        "survivalRate": 100,
+        "uniformityWeight": 85,
+        "biomassKg": {
+            "value": 30709.88,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 67703.69616226129,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 14,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 140259,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 10.95",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.6
+                },
+                "biomass": {
+                    "weight": 19.69,
+                    "percent": 1.03,
+                    "unit": "g"
+                },
+                "averageWeight": 9.85
+            },
+            {
+                "range": "10.95 - 14.08",
+                "animals": {
+                    "count": 29,
+                    "percent": 23.8
+                },
+                "biomass": {
+                    "weight": 376.49,
+                    "percent": 19.73,
+                    "unit": "g"
+                },
+                "averageWeight": 12.98
+            },
+            {
+                "range": "14.09 - 17.2",
+                "animals": {
+                    "count": 61,
+                    "percent": 50
+                },
+                "biomass": {
+                    "weight": 949.41,
+                    "percent": 49.76,
+                    "unit": "g"
+                },
+                "averageWeight": 15.56
+            },
+            {
+                "range": "17.21 - 20.33",
+                "animals": {
+                    "count": 27,
+                    "percent": 22.1
+                },
+                "biomass": {
+                    "weight": 496.33,
+                    "percent": 26.01,
+                    "unit": "g"
+                },
+                "averageWeight": 18.38
+            },
+            {
+                "range": "> 20.33",
+                "animals": {
+                    "count": 3,
+                    "percent": 2.5
+                },
+                "biomass": {
+                    "weight": 66.07,
+                    "percent": 3.46,
+                    "unit": "g"
+                },
+                "averageWeight": 22.02
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "40A25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 40",
+        "analysisDate": "2025-04-30T14:48:09.023Z",
+        "averageWeight": {
+            "value": 13.877049999999999,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.53,
+            "days": 7
+        },
+        "productionDays": 39,
+        "population": 1664929,
+        "survivalRate": 100,
+        "uniformityWeight": 84,
+        "biomassKg": {
+            "value": 23104.3,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 50936.262441980674,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 13.6,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 122421,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 9.71",
+                "animals": {
+                    "count": 6,
+                    "percent": 4.9
+                },
+                "biomass": {
+                    "weight": 54.66,
+                    "percent": 3.23,
+                    "unit": "g"
+                },
+                "averageWeight": 9.11
+            },
+            {
+                "range": "9.71 - 12.49",
+                "animals": {
+                    "count": 20,
+                    "percent": 16.4
+                },
+                "biomass": {
+                    "weight": 229.98,
+                    "percent": 13.58,
+                    "unit": "g"
+                },
+                "averageWeight": 11.5
+            },
+            {
+                "range": "12.50 - 15.26",
+                "animals": {
+                    "count": 70,
+                    "percent": 57.4
+                },
+                "biomass": {
+                    "weight": 965.18,
+                    "percent": 57.01,
+                    "unit": "g"
+                },
+                "averageWeight": 13.79
+            },
+            {
+                "range": "15.27 - 18.04",
+                "animals": {
+                    "count": 20,
+                    "percent": 16.4
+                },
+                "biomass": {
+                    "weight": 331.73,
+                    "percent": 19.59,
+                    "unit": "g"
+                },
+                "averageWeight": 16.59
+            },
+            {
+                "range": "> 18.04",
+                "animals": {
+                    "count": 6,
+                    "percent": 4.9
+                },
+                "biomass": {
+                    "weight": 111.44,
+                    "percent": 6.58,
+                    "unit": "g"
+                },
+                "averageWeight": 18.57
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "20B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 20",
+        "analysisDate": "2025-04-30T10:30:41.036Z",
+        "averageWeight": {
+            "value": 16.063489999999998,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.06,
+            "days": 7
+        },
+        "productionDays": 35,
+        "population": 1018420,
+        "survivalRate": 100,
+        "uniformityWeight": 88,
+        "biomassKg": {
+            "value": 16359.38,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 36066.25922742042,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 7.04,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 144661,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 11.24",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomass": {
+                    "weight": 0,
+                    "percent": 0,
+                    "unit": "g"
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "11.24 - 14.46",
+                "animals": {
+                    "count": 28,
+                    "percent": 22.2
+                },
+                "biomass": {
+                    "weight": 382.66,
+                    "percent": 18.91,
+                    "unit": "g"
+                },
+                "averageWeight": 13.67
+            },
+            {
+                "range": "14.47 - 17.67",
+                "animals": {
+                    "count": 69,
+                    "percent": 54.8
+                },
+                "biomass": {
+                    "weight": 1094.59,
+                    "percent": 54.08,
+                    "unit": "g"
+                },
+                "averageWeight": 15.86
+            },
+            {
+                "range": "17.68 - 20.88",
+                "animals": {
+                    "count": 27,
+                    "percent": 21.4
+                },
+                "biomass": {
+                    "weight": 502.63,
+                    "percent": 24.83,
+                    "unit": "g"
+                },
+                "averageWeight": 18.62
+            },
+            {
+                "range": "> 20.88",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.6
+                },
+                "biomass": {
+                    "weight": 44.12,
+                    "percent": 2.18,
+                    "unit": "g"
+                },
+                "averageWeight": 22.06
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "28B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 28",
+        "analysisDate": "2025-04-30T10:13:21.322Z",
+        "averageWeight": {
+            "value": 11.229049999999999,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.96,
+            "days": 7
+        },
+        "productionDays": 30,
+        "population": 1634574,
+        "survivalRate": 100,
+        "uniformityWeight": 83,
+        "biomassKg": {
+            "value": 18354.71,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 40465.20888347394,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 12.23,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 133652,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 7.86",
+                "animals": {
+                    "count": 8,
+                    "percent": 4.5
+                },
+                "biomass": {
+                    "weight": 58.57,
+                    "percent": 2.91,
+                    "unit": "g"
+                },
+                "averageWeight": 7.32
+            },
+            {
+                "range": "7.86 - 10.11",
+                "animals": {
+                    "count": 44,
+                    "percent": 24.6
+                },
+                "biomass": {
+                    "weight": 410.3,
+                    "percent": 20.41,
+                    "unit": "g"
+                },
+                "averageWeight": 9.33
+            },
+            {
+                "range": "10.12 - 12.35",
+                "animals": {
+                    "count": 82,
+                    "percent": 45.8
+                },
+                "biomass": {
+                    "weight": 921.2,
+                    "percent": 45.83,
+                    "unit": "g"
+                },
+                "averageWeight": 11.23
+            },
+            {
+                "range": "12.36 - 14.6",
+                "animals": {
+                    "count": 37,
+                    "percent": 20.7
+                },
+                "biomass": {
+                    "weight": 493.77,
+                    "percent": 24.57,
+                    "unit": "g"
+                },
+                "averageWeight": 13.35
+            },
+            {
+                "range": "> 14.6",
+                "animals": {
+                    "count": 8,
+                    "percent": 4.5
+                },
+                "biomass": {
+                    "weight": 126.16,
+                    "percent": 6.28,
+                    "unit": "g"
+                },
+                "averageWeight": 15.77
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "46B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 46",
+        "analysisDate": "2025-04-30T10:19:49.041Z",
+        "averageWeight": {
+            "value": 13.133329999999999,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.79,
+            "days": 7
+        },
+        "productionDays": 31,
+        "population": 704442,
+        "survivalRate": 100,
+        "uniformityWeight": 86,
+        "biomassKg": {
+            "value": 9251.67,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 20396.440971879663,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 5.27,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 133670,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 9.19",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomass": {
+                    "weight": 8.08,
+                    "percent": 0.41,
+                    "unit": "g"
+                },
+                "averageWeight": 8.08
+            },
+            {
+                "range": "9.19 - 11.82",
+                "animals": {
+                    "count": 37,
+                    "percent": 24.7
+                },
+                "biomass": {
+                    "weight": 406.79,
+                    "percent": 20.65,
+                    "unit": "g"
+                },
+                "averageWeight": 10.99
+            },
+            {
+                "range": "11.83 - 14.45",
+                "animals": {
+                    "count": 80,
+                    "percent": 53.3
+                },
+                "biomass": {
+                    "weight": 1049.17,
+                    "percent": 53.26,
+                    "unit": "g"
+                },
+                "averageWeight": 13.11
+            },
+            {
+                "range": "14.46 - 17.07",
+                "animals": {
+                    "count": 29,
+                    "percent": 19.3
+                },
+                "biomass": {
+                    "weight": 449.6,
+                    "percent": 22.82,
+                    "unit": "g"
+                },
+                "averageWeight": 15.5
+            },
+            {
+                "range": "> 17.07",
+                "animals": {
+                    "count": 3,
+                    "percent": 2
+                },
+                "biomass": {
+                    "weight": 56.35,
+                    "percent": 2.86,
+                    "unit": "g"
+                },
+                "averageWeight": 18.78
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "47B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 47",
+        "analysisDate": "2025-04-30T09:39:50.623Z",
+        "averageWeight": {
+            "value": 12.226030000000002,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.67,
+            "days": 7
+        },
+        "productionDays": 31,
+        "population": 593109,
+        "survivalRate": 100,
+        "uniformityWeight": 89,
+        "biomassKg": {
+            "value": 7251.37,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 15986.534341395556,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 4.4,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 134797,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 8.56",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomass": {
+                    "weight": 0,
+                    "percent": 0,
+                    "unit": "g"
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "8.56 - 11",
+                "animals": {
+                    "count": 27,
+                    "percent": 18.5
+                },
+                "biomass": {
+                    "weight": 279.5,
+                    "percent": 15.66,
+                    "unit": "g"
+                },
+                "averageWeight": 10.35
+            },
+            {
+                "range": "11.01 - 13.45",
+                "animals": {
+                    "count": 93,
+                    "percent": 63.7
+                },
+                "biomass": {
+                    "weight": 1131.37,
+                    "percent": 63.38,
+                    "unit": "g"
+                },
+                "averageWeight": 12.17
+            },
+            {
+                "range": "13.46 - 15.89",
+                "animals": {
+                    "count": 24,
+                    "percent": 16.4
+                },
+                "biomass": {
+                    "weight": 340.81,
+                    "percent": 19.09,
+                    "unit": "g"
+                },
+                "averageWeight": 14.2
+            },
+            {
+                "range": "> 15.89",
+                "animals": {
+                    "count": 2,
+                    "percent": 1.4
+                },
+                "biomass": {
+                    "weight": 33.31,
+                    "percent": 1.87,
+                    "unit": "g"
+                },
+                "averageWeight": 16.66
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "48B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 48",
+        "analysisDate": "2025-04-30T09:35:12.622Z",
+        "averageWeight": {
+            "value": 12.238100000000001,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.9,
+            "days": 7
+        },
+        "productionDays": 31,
+        "population": 980766,
+        "survivalRate": 100,
+        "uniformityWeight": 87,
+        "biomassKg": {
+            "value": 12002.71,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 26461.445989490516,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 7.25,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 135278,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 8.57",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomass": {
+                    "weight": 0,
+                    "percent": 0,
+                    "unit": "g"
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "8.57 - 11.01",
+                "animals": {
+                    "count": 32,
+                    "percent": 21.8
+                },
+                "biomass": {
+                    "weight": 325.09,
+                    "percent": 18.07,
+                    "unit": "g"
+                },
+                "averageWeight": 10.16
+            },
+            {
+                "range": "11.02 - 13.46",
+                "animals": {
+                    "count": 85,
+                    "percent": 57.8
+                },
+                "biomass": {
+                    "weight": 1034.9,
+                    "percent": 57.53,
+                    "unit": "g"
+                },
+                "averageWeight": 12.18
+            },
+            {
+                "range": "13.47 - 15.91",
+                "animals": {
+                    "count": 26,
+                    "percent": 17.7
+                },
+                "biomass": {
+                    "weight": 369.49,
+                    "percent": 20.54,
+                    "unit": "g"
+                },
+                "averageWeight": 14.21
+            },
+            {
+                "range": "> 15.91",
+                "animals": {
+                    "count": 4,
+                    "percent": 2.7
+                },
+                "biomass": {
+                    "weight": 69.53,
+                    "percent": 3.86,
+                    "unit": "g"
+                },
+                "averageWeight": 17.38
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "30B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 30",
+        "analysisDate": "2025-04-30T14:33:32.715Z",
+        "averageWeight": {
+            "value": 10.779309999999999,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.02,
+            "days": 7
+        },
+        "productionDays": 28,
+        "population": 1108039,
+        "survivalRate": 100,
+        "uniformityWeight": 85,
+        "biomassKg": {
+            "value": 11943.9,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 26331.79213309959,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 7.3,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 151786,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 7.55",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomass": {
+                    "weight": 7.03,
+                    "percent": 0.45,
+                    "unit": "g"
+                },
+                "averageWeight": 7.03
+            },
+            {
+                "range": "7.55 - 9.7",
+                "animals": {
+                    "count": 38,
+                    "percent": 26.2
+                },
+                "biomass": {
+                    "weight": 340.77,
+                    "percent": 21.8,
+                    "unit": "g"
+                },
+                "averageWeight": 8.97
+            },
+            {
+                "range": "9.71 - 11.86",
+                "animals": {
+                    "count": 69,
+                    "percent": 47.6
+                },
+                "biomass": {
+                    "weight": 740.57,
+                    "percent": 47.38,
+                    "unit": "g"
+                },
+                "averageWeight": 10.73
+            },
+            {
+                "range": "11.87 - 14.01",
+                "animals": {
+                    "count": 32,
+                    "percent": 22.1
+                },
+                "biomass": {
+                    "weight": 402.4,
+                    "percent": 25.75,
+                    "unit": "g"
+                },
+                "averageWeight": 12.58
+            },
+            {
+                "range": "> 14.01",
+                "animals": {
+                    "count": 5,
+                    "percent": 3.4
+                },
+                "biomass": {
+                    "weight": 72.23,
+                    "percent": 4.62,
+                    "unit": "g"
+                },
+                "averageWeight": 14.45
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "25B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 25",
+        "analysisDate": "2025-04-30T16:30:00.852Z",
+        "averageWeight": {
+            "value": 10.60156,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.28,
+            "days": 7
+        },
+        "productionDays": 26,
+        "population": 2008577,
+        "survivalRate": 100,
+        "uniformityWeight": 80,
+        "biomassKg": {
+            "value": 21294.05,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 46945.34434077892,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 14,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 143469,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 7.42",
+                "animals": {
+                    "count": 7,
+                    "percent": 5.5
+                },
+                "biomass": {
+                    "weight": 44.77,
+                    "percent": 3.3,
+                    "unit": "g"
+                },
+                "averageWeight": 6.4
+            },
+            {
+                "range": "7.42 - 9.54",
+                "animals": {
+                    "count": 33,
+                    "percent": 25.8
+                },
+                "biomass": {
+                    "weight": 281.2,
+                    "percent": 20.72,
+                    "unit": "g"
+                },
+                "averageWeight": 8.52
+            },
+            {
+                "range": "9.55 - 11.66",
+                "animals": {
+                    "count": 48,
+                    "percent": 37.5
+                },
+                "biomass": {
+                    "weight": 508.37,
+                    "percent": 37.46,
+                    "unit": "g"
+                },
+                "averageWeight": 10.59
+            },
+            {
+                "range": "11.67 - 13.78",
+                "animals": {
+                    "count": 29,
+                    "percent": 22.7
+                },
+                "biomass": {
+                    "weight": 360.18,
+                    "percent": 26.54,
+                    "unit": "g"
+                },
+                "averageWeight": 12.42
+            },
+            {
+                "range": "> 13.78",
+                "animals": {
+                    "count": 11,
+                    "percent": 8.6
+                },
+                "biomass": {
+                    "weight": 162.47,
+                    "percent": 11.97,
+                    "unit": "g"
+                },
+                "averageWeight": 14.77
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "21B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 21",
+        "analysisDate": "2025-04-30T10:25:43.050Z",
+        "averageWeight": {
+            "value": 8.0915,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.56,
+            "days": 7
+        },
+        "productionDays": 21,
+        "population": 1347768,
+        "survivalRate": 100,
+        "uniformityWeight": 84,
+        "biomassKg": {
+            "value": 10905.46,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 24042.423817666946,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 7.9,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 170603,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 5.66",
+                "animals": {
+                    "count": 4,
+                    "percent": 2.6
+                },
+                "biomass": {
+                    "weight": 21.82,
+                    "percent": 1.76,
+                    "unit": "g"
+                },
+                "averageWeight": 5.46
+            },
+            {
+                "range": "5.66 - 7.28",
+                "animals": {
+                    "count": 36,
+                    "percent": 23.5
+                },
+                "biomass": {
+                    "weight": 239.96,
+                    "percent": 19.38,
+                    "unit": "g"
+                },
+                "averageWeight": 6.67
+            },
+            {
+                "range": "7.29 - 8.9",
+                "animals": {
+                    "count": 66,
+                    "percent": 43.1
+                },
+                "biomass": {
+                    "weight": 525.34,
+                    "percent": 42.43,
+                    "unit": "g"
+                },
+                "averageWeight": 7.96
+            },
+            {
+                "range": "8.91 - 10.52",
+                "animals": {
+                    "count": 44,
+                    "percent": 28.8
+                },
+                "biomass": {
+                    "weight": 417.39,
+                    "percent": 33.71,
+                    "unit": "g"
+                },
+                "averageWeight": 9.49
+            },
+            {
+                "range": "> 10.52",
+                "animals": {
+                    "count": 3,
+                    "percent": 2
+                },
+                "biomass": {
+                    "weight": 33.49,
+                    "percent": 2.71,
+                    "unit": "g"
+                },
+                "averageWeight": 11.16
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "54B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 54",
+        "analysisDate": "2025-04-30T09:56:30.461Z",
+        "averageWeight": {
+            "value": 7.530729999999999,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.41,
+            "days": 7
+        },
+        "productionDays": 21,
+        "population": 459150,
+        "survivalRate": 100,
+        "uniformityWeight": 82,
+        "biomassKg": {
+            "value": 3457.73,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 7622.989778245167,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 2.9,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 158327,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 5.27",
+                "animals": {
+                    "count": 7,
+                    "percent": 3.9
+                },
+                "biomass": {
+                    "weight": 34.8,
+                    "percent": 2.58,
+                    "unit": "g"
+                },
+                "averageWeight": 4.97
+            },
+            {
+                "range": "5.27 - 6.78",
+                "animals": {
+                    "count": 47,
+                    "percent": 26.3
+                },
+                "biomass": {
+                    "weight": 289.61,
+                    "percent": 21.48,
+                    "unit": "g"
+                },
+                "averageWeight": 6.16
+            },
+            {
+                "range": "6.79 - 8.28",
+                "animals": {
+                    "count": 73,
+                    "percent": 40.8
+                },
+                "biomass": {
+                    "weight": 546.61,
+                    "percent": 40.55,
+                    "unit": "g"
+                },
+                "averageWeight": 7.49
+            },
+            {
+                "range": "8.29 - 9.79",
+                "animals": {
+                    "count": 39,
+                    "percent": 21.8
+                },
+                "biomass": {
+                    "weight": 345.34,
+                    "percent": 25.62,
+                    "unit": "g"
+                },
+                "averageWeight": 8.85
+            },
+            {
+                "range": "> 9.79",
+                "animals": {
+                    "count": 13,
+                    "percent": 7.3
+                },
+                "biomass": {
+                    "weight": 131.65,
+                    "percent": 9.77,
+                    "unit": "g"
+                },
+                "averageWeight": 10.13
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "57B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 57",
+        "analysisDate": "2025-04-30T14:36:51.417Z",
+        "averageWeight": {
+            "value": 7.40559,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.99,
+            "days": 7
+        },
+        "productionDays": 21,
+        "population": 2743303,
+        "survivalRate": 100,
+        "uniformityWeight": 85,
+        "biomassKg": {
+            "value": 20315.78,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 44788.62816850292,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 16.49,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 166361,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 5.18",
+                "animals": {
+                    "count": 1,
+                    "percent": 0.7
+                },
+                "biomass": {
+                    "weight": 4.41,
+                    "percent": 0.42,
+                    "unit": "g"
+                },
+                "averageWeight": 4.41
+            },
+            {
+                "range": "5.18 - 6.67",
+                "animals": {
+                    "count": 32,
+                    "percent": 22.4
+                },
+                "biomass": {
+                    "weight": 193.33,
+                    "percent": 18.26,
+                    "unit": "g"
+                },
+                "averageWeight": 6.04
+            },
+            {
+                "range": "6.68 - 8.15",
+                "animals": {
+                    "count": 75,
+                    "percent": 52.4
+                },
+                "biomass": {
+                    "weight": 550.95,
+                    "percent": 52.03,
+                    "unit": "g"
+                },
+                "averageWeight": 7.35
+            },
+            {
+                "range": "8.16 - 9.63",
+                "animals": {
+                    "count": 29,
+                    "percent": 20.3
+                },
+                "biomass": {
+                    "weight": 249.62,
+                    "percent": 23.57,
+                    "unit": "g"
+                },
+                "averageWeight": 8.61
+            },
+            {
+                "range": "> 9.63",
+                "animals": {
+                    "count": 6,
+                    "percent": 4.2
+                },
+                "biomass": {
+                    "weight": 60.69,
+                    "percent": 5.73,
+                    "unit": "g"
+                },
+                "averageWeight": 10.12
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "51B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 51",
+        "analysisDate": "2025-04-30T09:38:18.436Z",
+        "averageWeight": {
+            "value": 6.18621,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.29,
+            "days": 7
+        },
+        "productionDays": 16,
+        "population": 1053184,
+        "survivalRate": 100,
+        "uniformityWeight": 86,
+        "biomassKg": {
+            "value": 6515.22,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 14363.601398321582,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 8.02,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 131319,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 4.33",
+                "animals": {
+                    "count": 0,
+                    "percent": 0
+                },
+                "biomass": {
+                    "weight": 0,
+                    "percent": 0,
+                    "unit": "g"
+                },
+                "averageWeight": 0
+            },
+            {
+                "range": "4.33 - 5.57",
+                "animals": {
+                    "count": 37,
+                    "percent": 25.5
+                },
+                "biomass": {
+                    "weight": 189.72,
+                    "percent": 21.15,
+                    "unit": "g"
+                },
+                "averageWeight": 5.13
+            },
+            {
+                "range": "5.58 - 6.8",
+                "animals": {
+                    "count": 72,
+                    "percent": 49.7
+                },
+                "biomass": {
+                    "weight": 441.63,
+                    "percent": 49.23,
+                    "unit": "g"
+                },
+                "averageWeight": 6.13
+            },
+            {
+                "range": "6.81 - 8.04",
+                "animals": {
+                    "count": 31,
+                    "percent": 21.4
+                },
+                "biomass": {
+                    "weight": 222.55,
+                    "percent": 24.81,
+                    "unit": "g"
+                },
+                "averageWeight": 7.18
+            },
+            {
+                "range": "> 8.04",
+                "animals": {
+                    "count": 5,
+                    "percent": 3.4
+                },
+                "biomass": {
+                    "weight": 43.11,
+                    "percent": 4.81,
+                    "unit": "g"
+                },
+                "averageWeight": 8.62
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "38B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 38",
+        "analysisDate": "2025-04-30T10:28:54.488Z",
+        "averageWeight": {
+            "value": 5.875,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 4.84,
+            "days": 7
+        },
+        "productionDays": 15,
+        "population": 2018334,
+        "survivalRate": 100,
+        "uniformityWeight": 80,
+        "biomassKg": {
+            "value": 11857.71,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 26141.775709322443,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 13.35,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 151186,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 4.11",
+                "animals": {
+                    "count": 8,
+                    "percent": 5.3
+                },
+                "biomass": {
+                    "weight": 29.99,
+                    "percent": 3.36,
+                    "unit": "g"
+                },
+                "averageWeight": 3.75
+            },
+            {
+                "range": "4.11 - 5.29",
+                "animals": {
+                    "count": 42,
+                    "percent": 27.6
+                },
+                "biomass": {
+                    "weight": 201.42,
+                    "percent": 22.56,
+                    "unit": "g"
+                },
+                "averageWeight": 4.8
+            },
+            {
+                "range": "5.30 - 6.46",
+                "animals": {
+                    "count": 52,
+                    "percent": 34.2
+                },
+                "biomass": {
+                    "weight": 301.17,
+                    "percent": 33.73,
+                    "unit": "g"
+                },
+                "averageWeight": 5.79
+            },
+            {
+                "range": "6.47 - 7.64",
+                "animals": {
+                    "count": 41,
+                    "percent": 27
+                },
+                "biomass": {
+                    "weight": 286.71,
+                    "percent": 32.11,
+                    "unit": "g"
+                },
+                "averageWeight": 6.99
+            },
+            {
+                "range": "> 7.64",
+                "animals": {
+                    "count": 9,
+                    "percent": 5.9
+                },
+                "biomass": {
+                    "weight": 73.72,
+                    "percent": 8.26,
+                    "unit": "g"
+                },
+                "averageWeight": 8.19
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "44B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 44",
+        "analysisDate": "2025-04-30T09:28:52.810Z",
+        "averageWeight": {
+            "value": 4.89796,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.02,
+            "days": 7
+        },
+        "productionDays": 13,
+        "population": 2815807,
+        "survivalRate": 100,
+        "uniformityWeight": 81,
+        "biomassKg": {
+            "value": 13791.71,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 30405.515859977975,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 19,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 148200,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 3.43",
+                "animals": {
+                    "count": 7,
+                    "percent": 4.8
+                },
+                "biomass": {
+                    "weight": 20.61,
+                    "percent": 2.86,
+                    "unit": "g"
+                },
+                "averageWeight": 2.94
+            },
+            {
+                "range": "3.43 - 4.41",
+                "animals": {
+                    "count": 40,
+                    "percent": 27.2
+                },
+                "biomass": {
+                    "weight": 161.34,
+                    "percent": 22.41,
+                    "unit": "g"
+                },
+                "averageWeight": 4.03
+            },
+            {
+                "range": "4.42 - 5.39",
+                "animals": {
+                    "count": 52,
+                    "percent": 35.4
+                },
+                "biomass": {
+                    "weight": 252.58,
+                    "percent": 35.08,
+                    "unit": "g"
+                },
+                "averageWeight": 4.86
+            },
+            {
+                "range": "5.40 - 6.37",
+                "animals": {
+                    "count": 42,
+                    "percent": 28.6
+                },
+                "biomass": {
+                    "weight": 246.51,
+                    "percent": 34.24,
+                    "unit": "g"
+                },
+                "averageWeight": 5.87
+            },
+            {
+                "range": "> 6.37",
+                "animals": {
+                    "count": 6,
+                    "percent": 4.1
+                },
+                "biomass": {
+                    "weight": 38.95,
+                    "percent": 5.41,
+                    "unit": "g"
+                },
+                "averageWeight": 6.49
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "18B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 18",
+        "analysisDate": "2025-04-30T10:32:16.636Z",
+        "averageWeight": {
+            "value": 4.0952399999999995,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.05,
+            "days": 7
+        },
+        "productionDays": 10,
+        "population": 2571693,
+        "survivalRate": 100,
+        "uniformityWeight": 81,
+        "biomassKg": {
+            "value": 10531.7,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 23218.424066524753,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 16.01,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 160630,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 2.87",
+                "animals": {
+                    "count": 6,
+                    "percent": 4.1
+                },
+                "biomass": {
+                    "weight": 15.45,
+                    "percent": 2.57,
+                    "unit": "g"
+                },
+                "averageWeight": 2.58
+            },
+            {
+                "range": "2.87 - 3.69",
+                "animals": {
+                    "count": 41,
+                    "percent": 27.9
+                },
+                "biomass": {
+                    "weight": 136.86,
+                    "percent": 22.73,
+                    "unit": "g"
+                },
+                "averageWeight": 3.34
+            },
+            {
+                "range": "3.70 - 4.5",
+                "animals": {
+                    "count": 59,
+                    "percent": 40.1
+                },
+                "biomass": {
+                    "weight": 243.56,
+                    "percent": 40.46,
+                    "unit": "g"
+                },
+                "averageWeight": 4.13
+            },
+            {
+                "range": "4.51 - 5.32",
+                "animals": {
+                    "count": 32,
+                    "percent": 21.8
+                },
+                "biomass": {
+                    "weight": 154.35,
+                    "percent": 25.64,
+                    "unit": "g"
+                },
+                "averageWeight": 4.82
+            },
+            {
+                "range": "> 5.32",
+                "animals": {
+                    "count": 9,
+                    "percent": 6.1
+                },
+                "biomass": {
+                    "weight": 51.77,
+                    "percent": 8.6,
+                    "unit": "g"
+                },
+                "averageWeight": 5.75
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "19B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 19",
+        "analysisDate": "2025-04-30T09:59:09.908Z",
+        "averageWeight": {
+            "value": 3.74112,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.94,
+            "days": 7
+        },
+        "productionDays": 8,
+        "population": 2273403,
+        "survivalRate": 100,
+        "uniformityWeight": 81,
+        "biomassKg": {
+            "value": 8505.07,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 18750.469722407364,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 16,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 142087,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 2.62",
+                "animals": {
+                    "count": 5,
+                    "percent": 2.5
+                },
+                "biomass": {
+                    "weight": 12.18,
+                    "percent": 1.65,
+                    "unit": "g"
+                },
+                "averageWeight": 2.44
+            },
+            {
+                "range": "2.62 - 3.37",
+                "animals": {
+                    "count": 60,
+                    "percent": 30.5
+                },
+                "biomass": {
+                    "weight": 182.89,
+                    "percent": 24.82,
+                    "unit": "g"
+                },
+                "averageWeight": 3.05
+            },
+            {
+                "range": "3.38 - 4.12",
+                "animals": {
+                    "count": 75,
+                    "percent": 38.1
+                },
+                "biomass": {
+                    "weight": 278.14,
+                    "percent": 37.74,
+                    "unit": "g"
+                },
+                "averageWeight": 3.71
+            },
+            {
+                "range": "4.13 - 4.86",
+                "animals": {
+                    "count": 47,
+                    "percent": 23.9
+                },
+                "biomass": {
+                    "weight": 211.05,
+                    "percent": 28.64,
+                    "unit": "g"
+                },
+                "averageWeight": 4.49
+            },
+            {
+                "range": "> 4.86",
+                "animals": {
+                    "count": 10,
+                    "percent": 5.1
+                },
+                "biomass": {
+                    "weight": 52.74,
+                    "percent": 7.16,
+                    "unit": "g"
+                },
+                "averageWeight": 5.27
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "52B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 52",
+        "analysisDate": "2025-04-30T09:37:10.268Z",
+        "averageWeight": {
+            "value": 2.1197600000000003,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 2.31,
+            "days": 7
+        },
+        "productionDays": 6,
+        "population": 1310490,
+        "survivalRate": 100,
+        "uniformityWeight": 80,
+        "biomassKg": {
+            "value": 2777.92,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 6124.265273686152,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 8.45,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 155087,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 1.48",
+                "animals": {
+                    "count": 6,
+                    "percent": 3.6
+                },
+                "biomass": {
+                    "weight": 7.55,
+                    "percent": 2.13,
+                    "unit": "g"
+                },
+                "averageWeight": 1.26
+            },
+            {
+                "range": "1.48 - 1.91",
+                "animals": {
+                    "count": 51,
+                    "percent": 30.5
+                },
+                "biomass": {
+                    "weight": 89.18,
+                    "percent": 25.19,
+                    "unit": "g"
+                },
+                "averageWeight": 1.75
+            },
+            {
+                "range": "1.92 - 2.33",
+                "animals": {
+                    "count": 66,
+                    "percent": 39.5
+                },
+                "biomass": {
+                    "weight": 139.74,
+                    "percent": 39.47,
+                    "unit": "g"
+                },
+                "averageWeight": 2.12
+            },
+            {
+                "range": "2.34 - 2.76",
+                "animals": {
+                    "count": 31,
+                    "percent": 18.6
+                },
+                "biomass": {
+                    "weight": 77.64,
+                    "percent": 21.93,
+                    "unit": "g"
+                },
+                "averageWeight": 2.5
+            },
+            {
+                "range": "> 2.76",
+                "animals": {
+                    "count": 13,
+                    "percent": 7.8
+                },
+                "biomass": {
+                    "weight": 39.89,
+                    "percent": 11.27,
+                    "unit": "g"
+                },
+                "averageWeight": 3.07
+            }
+        ]
+    },
+    {
+        "campusName": "Bellavista",
+        "stockingName": "27B25",
+        "stockingType": "TRANSFER",
+        "tankName": "PS 27",
+        "analysisDate": "2025-04-30T16:33:05.706Z",
+        "averageWeight": {
+            "value": 2.43158,
+            "unit": "g"
+        },
+        "weightIncrease": {
+            "unit": "g",
+            "value": 3.62,
+            "days": 7
+        },
+        "productionDays": 5,
+        "population": 1998695,
+        "survivalRate": 100,
+        "uniformityWeight": 78,
+        "biomassKg": {
+            "value": 4859.99,
+            "unit": "Kg"
+        },
+        "biomassLb": {
+            "value": 10714.443895958831,
+            "unit": "Lb"
+        },
+        "size": {
+            "value": 17,
+            "unit": "Ha"
+        },
+        "density": {
+            "value": 117570,
+            "unit": "anim/ha"
+        },
+        "observations": [],
+        "weightGroupData": [
+            {
+                "range": "< 1.7",
+                "animals": {
+                    "count": 8,
+                    "percent": 8.4
+                },
+                "biomass": {
+                    "weight": 11,
+                    "percent": 4.76,
+                    "unit": "g"
+                },
+                "averageWeight": 1.38
+            },
+            {
+                "range": "1.70 - 2.19",
+                "animals": {
+                    "count": 22,
+                    "percent": 23.2
+                },
+                "biomass": {
+                    "weight": 43.67,
+                    "percent": 18.9,
+                    "unit": "g"
+                },
+                "averageWeight": 1.99
+            },
+            {
+                "range": "2.20 - 2.67",
+                "animals": {
+                    "count": 33,
+                    "percent": 34.7
+                },
+                "biomass": {
+                    "weight": 79.25,
+                    "percent": 34.31,
+                    "unit": "g"
+                },
+                "averageWeight": 2.4
+            },
+            {
+                "range": "2.68 - 3.16",
+                "animals": {
+                    "count": 24,
+                    "percent": 25.3
+                },
+                "biomass": {
+                    "weight": 69.83,
+                    "percent": 30.23,
+                    "unit": "g"
+                },
+                "averageWeight": 2.91
+            },
+            {
+                "range": "> 3.16",
+                "animals": {
+                    "count": 8,
+                    "percent": 8.4
+                },
+                "biomass": {
+                    "weight": 27.25,
+                    "percent": 11.8,
+                    "unit": "g"
+                },
+                "averageWeight": 3.41
+            }
+        ]
+    }
+]
