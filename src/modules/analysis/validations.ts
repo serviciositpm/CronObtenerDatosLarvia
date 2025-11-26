@@ -15,7 +15,10 @@ export function validateAndNormalizeAnalysisData(data: AnalysisData[]): Analysis
         // Asegurar que las propiedades anidadas existen antes de acceder a sus valores
         analysis.averageWeight = analysis.averageWeight ?? { value: 0, unit: '' };
         analysis.weightIncrease = analysis.weightIncrease ?? { value: 0, unit: '', days: 0 };
-        analysis.biomass = analysis.biomass ?? { value: 0, unit: '' };
+        /* analysis.biomass = analysis.biomass ?? { value: 0, unit: '' }; */
+        // Nuevos campos de biomass
+    analysis.biomassKg = analysis.biomassKg ?? { value: 0, unit: 'Kg' };
+    analysis.biomassLb = analysis.biomassLb ?? { value: 0, unit: 'Lb' };
         analysis.size = analysis.size ?? { value: 0, unit: '' };
         analysis.density = analysis.density ?? { value: 0, unit: '' };
 
