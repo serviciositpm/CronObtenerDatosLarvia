@@ -51,7 +51,7 @@ export class AnalysisService {
                             group.biomassKg.percent,
                             group.biomassLb.weight,
                             group.biomassLb.percent, */
-                            group.averageWeight
+                            group.averageWeight.value
                         );
 
                         

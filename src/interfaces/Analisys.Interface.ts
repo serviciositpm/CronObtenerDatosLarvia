@@ -44,6 +44,6 @@ export interface AnalysisData {
     biomass: { weight: number; percent: number; unit: string };
     /* biomassKg: { weight: number; percent: number };
       biomassLb: { weight: number; percent: number }; */
-    averageWeight: number;
+    averageWeight: { value : number, unit: string};
   }>;
 }
